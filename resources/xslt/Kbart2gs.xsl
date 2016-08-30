@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
-    <xsl:output encoding="UTF-8" method="xml" indent="yes"/>   
+    <xsl:output encoding="UTF-8" method="xml" indent="yes" doctype-public="-//GOOGLE//Institutional Holdings 1.0//EN" doctype-system="http://scholar.google.com/scholar/institutional_holdings.dtd"/>   
 	
 	<xsl:template match="/">
 	<institutional_holdings>
@@ -10,7 +10,23 @@
 	
 	<xsl:template match="element">
 		<item type="electronic">
-			<xsl:apply-templates select="publication_title | print_identifier | online_identifier"/>
+			<!-- note: given the DTD we can put only one issn --> 
+			<!-- although we always have one for print issn and one for electronic issn, -->
+			<!-- and possibly other from older versions of the title -->
+			<!-- by default we prioritize here print issn -->
+			<!-- question sent to Google Scholar support: shall we add several <item> element -->
+			<!-- for the same journal for each its different possible issn numbers? -->
+			<xsl:choose>
+	         	<xsl:when test="print_identifier">
+	           	 	<xsl:apply-templates select="publication_title | print_identifier"/>
+	         	</xsl:when>
+	         	<xsl:when test="online_identifier">
+	           	 	<xsl:apply-templates select="publication_title | online_identifier"/>
+	         	</xsl:when>
+	         	<xsl:otherwise>
+	          	  	<xsl:apply-templates select="publication_title"/>
+	         	</xsl:otherwise>
+	       </xsl:choose>
 			<coverage>
 				<from>
 					<xsl:apply-templates select="date_first_issue_online | num_first_vol_online | num_first_issue_online"/>
@@ -41,9 +57,6 @@
 				<isbn><xsl:value-of select="text()"/></isbn>
 			</xsl:if>
 		</xsl:if>
-
-		<!-- note: can we put several issn? one for print issn, one for electronic issn, -->
-		<!-- other from older versions of the title ?? -->
 	</xsl:template>
 
 	<xsl:template match="date_first_issue_online | date_last_issue_online">
