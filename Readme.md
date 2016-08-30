@@ -58,6 +58,10 @@ Install :
 
 Required: node_xslt, https
 
+_libxslt_ and _libxml2_ must be already installed on your OS. On Linux Ubuntu, installing _libxslt-dev_ might be necessary:
+
+> sudo apt-get install libxslt-dev
+
 Run : 
 
 > node main
