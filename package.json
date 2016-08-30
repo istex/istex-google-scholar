@@ -1,0 +1,21 @@
+{
+  "name": "istex-google-scholar",
+  "version": "0.1.0",
+  "description": "Génération des fichiers de description du holding ISTEX pour Google Scholar à partir des fichiers Kbart du service Bacon de l'ABES",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.istex.fr/istex-google-scholar"
+  },
+  "author": "Patrice Lopez <patrice.lopez@science-miner.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "https": "1.0.0",
+    "node_xslt": "0.1.9"
+  }
+}
+
+	

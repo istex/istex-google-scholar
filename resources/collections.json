@@ -1,0 +1,81 @@
+{ 
+	"publishers" : [ 
+		{
+			"name" : "Bristish Medical Journal",
+			"abbrevName" : "BMJ",
+			"DOIprefix" : "10.1136", 
+			"collections" : ["journals"]
+		}, 
+		{
+			"name" : "Brill",
+			"DOIprefix" : "10.1163", 
+			"collections" : ["journals", "Brill's New Pauly;Collected Courses of the Hague Academy of International Law"]
+		},
+		{
+			"name" : "Garnier", 
+			"collections" : ["Le Grand Corpus des dictionnaires;Le Grand Corpus des grammaires françaises, des remarques et des traités sur la langue"]
+		}, 
+		{
+			"name" : "De Gruyter",
+			"DOIprefix" : "10.1515", 
+			"collections" : ["journals"]
+		},
+		{
+			"name" : "Elsevier",
+			"DOIprefix" : "10.1016", 
+			"collections" : ["journals"]
+		},
+		{
+			"name" : "Emerald",
+			"DOIprefix" : "10.1108", 
+			"collections" : ["journals"]
+		},
+		{
+			"name" : "Institute of Physics Publishing",
+			"abbrevName" : "IOP",
+			"DOIprefix" : "10.1088", 
+			"collections" : ["journals"]
+		},
+		{
+			"name" : "Oxford University Press",
+			"abbrevName" : "OUP",
+			"DOIprefix" : "10.1093", 
+			"collections" : ["journals"]
+		},
+		{
+			"name" : "Nature Publishing Group",
+			"abbrevName" : "NPG",
+			"DOIprefix" : "10.1038", 
+			"collections" : ["journals"]
+		},
+		{
+			"name" : "Royal Society of Chemistry",
+			"abbrevName" : "RSC",
+			"DOIprefix" : "10.1039", 
+			"collections" : ["journals"]
+		},
+		{
+			"name" : "Springer",
+			"DOIprefix" : "10.1007", 
+			"collections" : ["journals", "ebook series"]
+		},
+		{
+			"name" : "Sage",
+			"DOIprefix" : "10.1177", 
+			"collections" : ["journals"]
+		},
+		{
+			"name" : "Wiley",
+			"DOIprefix" : "10.1002", 
+			"collections" : ["journals"]
+		},
+		{
+			"name" : "ProQuest",
+			"collections" : ["EEBO"]
+		},
+		{
+			"name" : "Gale Cengage",
+			"collections" : ["ECCO"]
+		}
+	] 
+}

@@ -1,0 +1,99 @@
+# Openurl	result[0,1]	ISTEX_ID
+
+https://api.istex.fr/document/openurl?sid=google&auinit=WJH&aulast=NAUTA&atitle=Hippocampal+projections+and+related+neural+pathways+to+the+mid-brain+in+the+cat&id=pmid:13596467	1	EA49A5FDB057C942B498E022F285CE99A7C56BD9
+
+https://api.istex.fr/document/openurl?sid=google&auinit=F&aulast=Castelli&atitle=Autism,+Asperger+syndrome+and+brain+mechanisms+for+the+attribution+of+mental+states+to+animated+shapes&id=pmid:12135974	1	E50884C07DA568FFFC0AEBE5B67F90C888821F06
+
+https://api.istex.fr/document/openurl?sid=google&auinit=P&aulast=Damier&atitle=The+substantia+nigra+of+the+human+brain&id=pmid:10430829	1	2CC2ECDE5193196764515EF802B66656D80CF1FA
+
+https://api.istex.fr/document/openurl?sid=google&auinit=J&aulast=Brinkman&atitle=Cerebral+control+of+contralateral+and+ipsilateral+arm,+hand+and+finger+movements+in+the+split-brain+rhesus+monkey&id=pmid:4204228	1	CB09DDF44B3AC2E12A18CFCB566D8EC4F0E294EF
+
+https://api.istex.fr/document/openurl?sid=google&auinit=J&aulast=Zihl&atitle=Selective+disturbance+of+movement+vision+after+bilateral+brain+damage&id=pmid:6850272	1	71A9B9D3CC2CEF93FFA576E696630FC7C79D02E8
+
+https://api.istex.fr/document/openurl?sid=google&auinit=D&aulast=Dubuisson&atitle=The+formalin+test:+a+quantitative+study+of+the+analgesic+effects+of+morphine,+meperidine,+and+brain+stem+stimulation+in+rats+and+cats&id=doi:10.1016/0304-3959(77)90130-0&title=Pain&volume=4&date=1978&spage=161&issn=0304-3959	1	FFDC9B02BC7EC42F34A10749BCCC16B341746279
+
+# à noter ci-dessus, dans la démo widget "The formalin test: a quantitative study of the analgesic effects of morphine, meperidine, and brain stem stimulation in rats and cats" ne donne aucun résultat, mais enlever le : donne des résultats: "The formalin test a quantitative study of the analgesic effects of morphine, meperidine, and brain stem stimulation in rats and cats"
+
+https://api.istex.fr/document/openurl?sid=google&auinit=BE&aulast=Tomlinson&atitle=Observations+on+the+brains+of+demented+old+people&id=doi:10.1016/0022-510X(70)90063-8&title=Journal+of+the+neurological+sciences&volume=11&issue=3&date=1970&spage=205&issn=0022-510X	1	266A2B88FF0C5CFF840237C16CD1C783ABAB6EE7
+
+# à noter ci-dessus, dans la démo widget, le titre exact "Observations on the brains of demented old people" ne donne l'article qu'en page 3
+
+https://api.istex.fr/document/openurl?sid=google&auinit=WA&aulast=Banks&atitle=Leptin+enters+the+brain+by+a+saturable+system+independent+of+insulin&id=doi:10.1016/0196-9781(96)00025-3&title=Peptides&volume=17&issue=2&date=1996&spage=305&issn=0196-9781	1	5F400FD2F1B9D171D33DE77EF44A095B60DE0995
+
+https://api.istex.fr/document/openurl?sid=google&auinit=K&aulast=Takayama&atitle=The+comparison+of+effects+of+various+anesthetics+on+expression+of+Fos+protein+in+the+rat+brain&id=doi:10.1016/0304-3940(94)90871-0&title=Neuroscience+Letters&volume=176&issue=1&date=1994&spage=59&issn=0304-3940	1	9E91F77C8092DE96E95AF77DB46BCCF7A66F4089
+
+https://api.istex.fr/document/openurl?sid=google&auinit=J&aulast=Hughes&atitle=Isolation+of+an+endogenous+compound+from+the+brain+with+pharmacological+properties+similar+to+morphine&id=doi:10.1016/0006-8993(75)90391-1&title=Brain+research&volume=88&issue=2&date=1975&spage=295&issn=0006-8993	1	7D31A94E2E07A0A2999AAA75F33FE2C21C9DEF10
+
+https://api.istex.fr/document/openurl?sid=google&auinit=JP&aulast=Pijn&atitle=Chaos+or+noise+in+EEG+signals%3B+dependence+on+state+and+brain+site&id=doi:10.1016/0013-4694(91)90202-F&title=Electroencephalography+and+clinical+neurophysiology+evoked+potentials&volume=79&issue=5&date=1991&spage=371	1	6620FD28EDB212107C2544EA70C8D0396DA5F3C5
+
+https://api.istex.fr/document/openurl?sid=google&auinit=WD&aulast=Rooney&atitle=Magnetic+field+and+tissue+dependencies+of+human+brain+longitudinal+1H2O+relaxation+in+vivo&id=doi:10.1002/mrm.21122&title=Magnetic+resonance+in+medicine&volume=57&issue=2&date=2007&spage=308&issn=0740-3194	1	95DEF0B0BFB9E3166AAECE573104ED5E3CB32AEC
+
+https://api.istex.fr/document/openurl?sid=google&auinit=P&aulast=%C3%89rdi&atitle=The+brain+as+a+hermeneutic+device&id=doi:10.1016/0303-2647(95)01589-2&title=Bio+systems&volume=38&issue=2&date=1996&spage=179&issn=0303-2647	1	EA4FD9034397D7DCD919076028A8ADB96F5110E8
+
+https://api.istex.fr/document/openurl?sid=google&auinit=C&aulast=Chiarello&atitle=Visual+cerebral+lateralization+over+phases+of+the+menstrual+cycle:+A+preliminary+investigation&id=doi:10.1016/0278-2626(89)90002-X&title=Brain+and+cognition&volume=11&issue=1&date=1989&spage=18&issn=0278-2626	1	A7B3F6185FF446CBD9B8CACB9E0035AB8F14E5B0
+
+https://api.istex.fr/document/openurl?sid=google&auinit=R&aulast=Eckhorn&atitle=Coherent+oscillations:+A+mechanism+of+feature+linking+in+the+visual+cortex%3F&id=doi:10.1007/BF00202899&title=Biological+Cybernetics&volume=60&issue=2&date=1988&spage=121&issn=0340-1200	1	647FEED9B05B049764111CC786FBBFB907A30C93
+
+https://api.istex.fr/document/openurl?sid=google&auinit=GA&aulast=Carpenter&atitle=A+massively+parallel+architecture+for+a+self-organizing+neural+pattern+recognition+machine&id=doi:10.1016/S0734-189X(87)80014-2&title=Computer+Vision+and+Graphics&volume=37&issue=1&date=1987&spage=54&issn=0734-189X	1	C3BDE9BDA93E4569BCE590D7F60934DBE8BD3934
+
+https://api.istex.fr/document/openurl?sid=google&auinit=MS&aulast=Okun&atitle=Deep+brain+stimulation+in+the+internal+capsule+and+nucleus+accumbens+region:+responses+observed+during+active+and+sham+programming&id=pmid:17012341	1	5544C53390A7577B47DC503467B612A0E0D1074A
+
+https://api.istex.fr/document/openurl?sid=google&auinit=NA&aulast=Shapira&atitle=Panic+and+fear+induced+by+deep+brain+stimulation&id=pmid:16484657	1	429D73D5421E48DFDD56C11CB47D0C6D754D8CD4
+
+https://api.istex.fr/document/openurl?sid=google&auinit=G&aulast=Forloni&atitle=Neurotoxicity+of+a+prion+protein+fragment&title=De+la+nature&volume=362&date=1993&spage=543&issn=0028-0836	1	725A846A61F271F0328E16B005C38D1C794E53C5
+
+https://api.istex.fr/document/openurl?sid=google&auinit=PE&aulast=Rapp&atitle=Dynamics+of+brain+electrical+activity&id=doi:10.1007/BF01128848&title=Brain+Topography&volume=2&issue=1-2&date=1989&spage=99&issn=0896-0267	1	1CCBD5AAB21866A0F4E3DD364E41FBA8CFCC64E8
+
+https://api.istex.fr/document/openurl?sid=google&auinit=MJ&aulast=Kaminski&atitle=A+new+method+of+the+description+of+the+information+flow+in+the+brain+structures&id=doi:10.1007/BF00198091&title=Biological+Cybernetics&volume=65&issue=3&date=1991&spage=203&issn=0340-1200	1	28C9682273F5C0345BFC87DD61B5190EEC6D587A
+
+https://api.istex.fr/document/openurl?sid=google&auinit=RF&aulast=Stocker&atitle=The+organization+of+the+chemosensory+system+in+Drosophila+melanogaster:+a+rewiew&id=doi:10.1007/BF00305372&title=Cell+and+Tissue+Research&volume=275&issue=1&date=1994&spage=3&issn=0302-766X	1	9131699142CA0275E32C0D974CCF460D547B3984
+
+https://api.istex.fr/document/openurl?sid=google&auinit=H&aulast=Braak&atitle=Neuropathological+stageing+of+Alzheimer-related+changes&id=doi:10.1007/BF00308809&title=Acta+Neuropathologica&volume=82&issue=4&date=1991&spage=239&issn=0001-6322	1	CCF44343B275B5D16F3E5633A787CDF6EC2A5A2B
+
+https://api.istex.fr/document/openurl?sid=google&auinit=S&aulast=Mori&atitle=Three%E2%80%90dimensional+tracking+of+axonal+projections+in+the+brain+by+magnetic+resonance+imaging&id=doi:10.1002/1531-8249(199902)45:2%3C265::AID-ANA21%3E3.0.CO%3B2-3&title=Annals+of+neurology&volume=45&issue=2&date=1999&spage=265&issn=0364-5134	1	9EBF86FF2407E36DC09A0850777D4B9AAB769CFE
+
+https://api.istex.fr/document/openurl?sid=google&auinit=S&aulast=Gandhi&atitle=PINK1+protein+in+normal+human+brain+and+Parkinson%27s+disease&id=pmid:16702191	1	7B2BAEBB0929EAA919EB621E7E239CD0265787BE
+
+https://api.istex.fr/document/openurl?sid=google&auinit=B&aulast=Radziszewska&atitle=Parenting+style+and+adolescent+depressive+symptoms,+smoking,+and+academic+achievement:+Ethnic,+gender,+and+SES+differences&id=doi:10.1007/BF01857770&title=Journal+of+Behavioral+Medicine&volume=19&issue=3&date=1996&spage=289&issn=0160-7715	1	5AB8399D2F12077890A023355DBBC2EE3BDBCB79
+
+https://api.istex.fr/document/openurl?sid=google&auinit=P&aulast=Brain&atitle=An+equation+to+describe+dose+responses+where+there+is+stimulation+of+growth+at+low+doses&id=doi:10.1111/j.1365-3180.1989.tb00845.x&title=Weed+research&volume=29&issue=2&date=1989&spage=93	1	8596867856243F93EDA51347DBD5F0EB5EDDB026
+
+https://api.istex.fr/document/openurl?sid=google&auinit=D&aulast=Dubuisson&atitle=The+formalin+test:+a+quantitative+study+of+the+analgesic+effects+of+morphine,+meperidine,+and+brain+stem+stimulation+in+rats+and+cats&id=doi:10.1016/0304-3959(77)90130-0&title=Pain&volume=4&date=1978&spage=161&issn=0304-3959	1	FFDC9B02BC7EC42F34A10749BCCC16B341746279
+
+https://api.istex.fr/document/openurl?sid=google&auinit=TA&aulast=Libermann&atitle=Amplification,+enhanced+expression+and+possible+rearrangement+of+EGF+receptor+gene+in+primary+human+brain+tumours+of+glial+origin.&id=pmid:2981413	1	13104142B9F8F37FFFB5115D591F10933ACC2013
+
+https://api.istex.fr/document/openurl?sid=google&auinit=P&aulast=Whitelock&atitle=High-mass-loss+AGB+stars+in+the+South+Galactic+Cap&id=doi:10.1093/mnras/267.3.711&title=Monthly+notices+of+the+Royal+Astronomical+Society&volume=267&issue=3&date=1994&spage=711&issn=0035-8711	1	CCDBE99147159CCCFC284C4DFB6DA3CD2C8A1D02
+
+https://api.istex.fr/document/openurl?sid=google&auinit=H&aulast=Bernheimer&atitle=Brain+dopamine+and+the+syndromes+of+Parkinson+and+Huntington+Clinical,+morphological+and+neurochemical+correlations&id=doi:10.1016/0022-510X(73)90175-5&title=Journal+of+the+neurological+sciences&volume=20&issue=4&date=1973&spage=415&issn=0022-510X	1	809BCF3A26607B3F7338E64C5D223D69F3B8888C
+
+https://api.istex.fr/document/openurl?sid=google&auinit=SM&aulast=Rothman&atitle=Glutamate+and+the+pathophysiology+of+hypoxic%E2%80%93ischemic+brain+damage&id=doi:10.1002/ana.410190202&title=Annals+of+neurology&volume=19&issue=2&date=1986&spage=105&issn=0364-5134	1	277E9D2F4060985B30A7A4C2667A35C8B8DE34FF
+
+https://api.istex.fr/document/openurl?sid=google&auinit=A&aulast=Hohn&atitle=Identification+and+characterization+of+a+novel+member+of+the+nerve+growth+factor/brain-derived+neurotrophic+factor+family&id=doi:10.1038/344339a0&title=De+la+nature&volume=344&issue=6264&date=1990&spage=339&issn=0028-0836	1	38F93FFA38CCD6994E42F259F94E9F8FB85FA77B
+
+https://api.istex.fr/document/openurl?sid=google&auinit=T&aulast=Sudoh&atitle=C-type+natriuretic+peptide+(CNP):+a+new+member+of+natriuretic+peptide+family+identified+in+porcine+brain&id=doi:10.1016/0006-291X(90)92401-K&title=Biochemical+and+biophysical+research+communications&volume=168&issue=2&date=1990&spage=863&issn=0006-291X	1	059E0488B9B1BBFEF8FBFC6361EDE761F23CB250
+
+https://api.istex.fr/document/openurl?sid=google&auinit=BL&aulast=Padgett&atitle=Cultivation+of+papova-like+virus+from+human+brain+with+progressive+multifocal+leucoencephalopathy&id=doi:10.1016/S0140-6736(71)91777-6&title=The+Lancet&volume=297&issue=7712&date=1971&spage=1257&issn=0140-6736	1	7F075826451306E27AE6CACB4646EEF2DDFF4F4B
+
+https://api.istex.fr/document/openurl?sid=google&auinit=SJ&aulast=Enna&atitle=Properties+of+%CE%B3-aminobutyric+acid+(GABA)+receptor+binding+in+rat+brain+synaptic+membrane+fractions&id=doi:10.1016/0006-8993(75)90243-7&title=Brain+research&volume=100&issue=1&date=1975&spage=81&issn=0006-8993	1	F68739165C9303E58E1328227C114770B3D7EA91
+
+https://api.istex.fr/document/openurl?sid=google&auinit=PA&aulast=Bandettini&atitle=Processing+strategies+for+time%E2%80%90course+data+sets+in+functional+MRI+of+the+human+brain&id=doi:10.1002/mrm.1910300204&title=Magnetic+resonance+in+medicine&volume=30&issue=2&date=1993&spage=161&issn=0740-3194	1	4A3B863E48371E321CBFE7E0F698571B84F9452F
+
+https://api.istex.fr/document/openurl?sid=google&auinit=JD&aulast=Schmahmann&atitle=Cognition,+emotion+and+the+cerebellum&id=pmid:16434422	1	D7E0A3355C57A0D5AA2C4B6B8CBED99045A2E97A
+
+https://api.istex.fr/document/openurl?sid=google&auinit=R&aulast=Raghupathi&atitle=Cell+death+mechanisms+following+traumatic+brain+injury&id=doi:10.1111/j.1750-3639.2004.tb00056.x&title=Brain+pathology&volume=14&issue=2&date=2004&spage=215&issn=1015-6305	1	3AB3A45D853F5B01E366DF46EBEBD7A7EF5EAB8D
+
+https://api.istex.fr/document/openurl?sid=google&auinit=R&aulast=Klein&atitle=The+trkB+tyrosine+protein+kinase+is+a+receptor+for+brain-derived+neurotrophic+factor+and+neurotrophin-3&id=doi:10.1016/0092-8674(91)90628-C&title=C%C3%A9u&volume=66&issue=2&date=1991&spage=395&issn=0092-8674	1	F8EA809A985904005C79147427D07D68880DFF81
+
+https://api.istex.fr/document/openurl?sid=google&auinit=S&aulast=Baron%E2%80%90Cohen&atitle=Social+intelligence+in+the+normal+and+autistic+brain:+an+fMRI+study&id=doi:10.1046/j.1460-9568.1999.00621.x&title=European+journal+of+neuroscience&volume=11&issue=6&date=1999&spage=1891&issn=0953-816X	1	B4A941F4458D30F02337C6574FF8A6591D1BA42F
+
+https://api.istex.fr/document/openurl?sid=google&auinit=JN&aulast=Giedd&atitle=Structural+magnetic+resonance+imaging+of+the+adolescent+brain&id=doi:10.1196/annals.1308.009&title=Annals+of+the+New+York+Academy+of+Sciences&volume=1021&issue=1&date=2004&spage=77&issn=0077-8923	1	D5E0A531FD5BC23AAE0AB0C67C1F1048F3B05DDE
+
+https://api.istex.fr/document/openurl?sid=google&auinit=XI&aulast=He&atitle=Expression+of+a+large+family+of+POU-domain+regulatory+genes+in+mammalian+brain+development.&id=pmid:2739723	1	5D3933FC11A85C2B8D86D263CBD62CC790012796
+
+https://api.istex.fr/document/openurl?sid=google&auinit=A&aulast=Raine&atitle=Reduced+prefrontal+and+increased+subcortical+brain+functioning+assessed+using+positron+emission+tomography+in+predatory+and+affective+murderers&id=doi:10.1002/(SICI)1099-0798(199822)16:3%3C319::AID-BSL311%3E3.0.CO%3B2-G&title=Behavioral+sciences+%26+the+law&volume=16&issue=3&date=1998&spage=319&issn=0735-3936	1	EC63974363432209523C5D1ADE038B2DD81945F6
+
+https://api.istex.fr/document/openurl?sid=google&auinit=PS&aulast=Tofts&atitle=Measurement+of+the+blood%E2%80%90brain+barrier+permeability+and+leakage+space+using+dynamic+MR+imaging.+1.+Fundamental+concepts&id=doi:10.1002/mrm.1910170208&title=Magnetic+resonance+in+medicine&volume=17&issue=2&date=1991&spage=357&issn=0740-3194	1	AF2D0BBC951F4FAEA52929838B8326FC5A5B358D
+
+https://api.istex.fr/document/openurl?sid=google&auinit=SJ&aulast=Colcombe&atitle=Aerobic+exercise+training+increases+brain+volume+in+aging+humans&id=pmid:17167157	1	CF977DD9897B1521C6AA8FE03661FE13A73B8C35
+
+https://api.istex.fr/document/openurl?sid=google&auinit=ME&aulast=Raichle&atitle=Practice-related+changes+in+human+brain+functional+anatomy+during+nonmotor+learning&id=pmid:8180494	1	D74CBEB38E75DC7457769C53EE31CECACDD3F1BF
