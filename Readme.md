@@ -79,7 +79,7 @@ The "root" file for the XML ISTEX holding description gives the following affili
 The OpenURL service address to be used is also indicated in the file  ```resources/institutional_links_istex.xml``` under the element ```<openurl_base>```. Good to note, the base URL for the OpenURL service can include default options (or be prefixed by the url of an authentication proxy), for instance:  
 
 ```xml
-	<openurl_base>https://api.istex.fr/document/openurl?mode=auth&</openurl_base>
+	<openurl_base>https://api.istex.fr/document/openurl?mode=auth&amp;</openurl_base>
 ``` 
 
 Note : ```<other_link_label>``` is not used in our case, because the ISTEX resources are only digital. 
