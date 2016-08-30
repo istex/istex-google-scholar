@@ -1,6 +1,6 @@
 #Activation of links to ISTEX in Google Scholar
 
-##Principe
+##Descritption
 
 Google Scholar allows the integration of OpenURL links to full text resources contextualized with the electronic subscriptions associated to a given affiliation. 
 
