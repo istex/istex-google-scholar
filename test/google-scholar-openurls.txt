@@ -12,11 +12,7 @@ https://api.istex.fr/document/openurl?sid=google&auinit=J&aulast=Zihl&atitle=Sel
 
 https://api.istex.fr/document/openurl?sid=google&auinit=D&aulast=Dubuisson&atitle=The+formalin+test:+a+quantitative+study+of+the+analgesic+effects+of+morphine,+meperidine,+and+brain+stem+stimulation+in+rats+and+cats&id=doi:10.1016/0304-3959(77)90130-0&title=Pain&volume=4&date=1978&spage=161&issn=0304-3959	1	FFDC9B02BC7EC42F34A10749BCCC16B341746279
 
-# à noter ci-dessus, dans la démo widget "The formalin test: a quantitative study of the analgesic effects of morphine, meperidine, and brain stem stimulation in rats and cats" ne donne aucun résultat, mais enlever le : donne des résultats: "The formalin test a quantitative study of the analgesic effects of morphine, meperidine, and brain stem stimulation in rats and cats"
-
 https://api.istex.fr/document/openurl?sid=google&auinit=BE&aulast=Tomlinson&atitle=Observations+on+the+brains+of+demented+old+people&id=doi:10.1016/0022-510X(70)90063-8&title=Journal+of+the+neurological+sciences&volume=11&issue=3&date=1970&spage=205&issn=0022-510X	1	266A2B88FF0C5CFF840237C16CD1C783ABAB6EE7
-
-# à noter ci-dessus, dans la démo widget, le titre exact "Observations on the brains of demented old people" ne donne l'article qu'en page 3
 
 https://api.istex.fr/document/openurl?sid=google&auinit=WA&aulast=Banks&atitle=Leptin+enters+the+brain+by+a+saturable+system+independent+of+insulin&id=doi:10.1016/0196-9781(96)00025-3&title=Peptides&volume=17&issue=2&date=1996&spage=305&issn=0196-9781	1	5F400FD2F1B9D171D33DE77EF44A095B60DE0995
 
