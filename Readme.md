@@ -52,17 +52,17 @@ After the setting by the user of his ISTEX affiliation in the Google Scholar set
 The goal of the present _node.js_ module is to automate all the previously described steps in one single command line. 
 For updating the Google Scholar library links and the different settings, simply re-execute the module. 
 
-Install :
+Install:
 
 > npm install
 
-Required: node_xslt, https
+Required: https
 
-_libxslt_ and _libxml2_ must be already installed on your OS. On Linux Ubuntu, installing _libxslt-dev_ might be necessary:
+_xsltproc_ must be installed on your OS. On Linux Ubuntu, installing _xsltproc_ can be done with the following command:
 
-> sudo apt-get install libxslt-dev
+> sudo apt-get install xsltproc
 
-Run : 
+Run: 
 
 > node main
 

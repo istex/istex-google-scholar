@@ -1,6 +1,6 @@
-var https = require('https');
-var xslt = require('node_xslt');
-var fs = require('fs');
+const https = require('https');
+const fs = require('fs');
+const exec = require('child_process').exec;
 
 // the url where the Google Scholar xml files will put exposed on the internet
 var url = '';
@@ -23,7 +23,7 @@ var packageGet = {
 };
 
 // perform GET request
-var reqGet = https.request(listGet, function(res) {
+/*var reqGet = https.request(listGet, function(res) {
     console.log("statusCode: ", res.statusCode);
     res.on('data', function(d) {
         console.info('GET result:\n');
@@ -31,7 +31,7 @@ var reqGet = https.request(listGet, function(res) {
         console.info('\n\nCall completed');
     });
 
-});
+});*/
 
 /*reqGet.end();
 reqGet.on('error', function(e) {
@@ -40,7 +40,7 @@ reqGet.on('error', function(e) {
 
 // apply a stylesheet to an XML file and save the result 
 var pathKbart2gs = 'resources/xslt/Kbart2gs.xsl';
-var styleSheetDoc = xslt.readXsltFile(pathKbart2gs);
+var xsltEngine = 'xsltproc';
 
 function generateGoogleScholarFiles(gsFilesPath, kbartPath, outPath) {
 	console.log("Generating Google Scholar description files");
@@ -53,17 +53,25 @@ function generateGoogleScholarFiles(gsFilesPath, kbartPath, outPath) {
 	
 	// for each Kbart file in xml, apply the gs style sheet 
 	var filename = kbartPath + 'ELSEVIER_FRANCE_ISTEXJOURNALS.xml';
-	console.log('loading ' + filename);
-	var theDocument = xslt.readXmlFile(filename);
-	console.log('transforming with ' + pathKbart2gs);
-	var transformedString = xslt.transform(styleSheetDoc, theDocument, []);
-	// note: last parameter is for arguments/values to be given to the style sheet
-	fs.writeFile("results/institutional_holdings_istex_elsevier.xml", transformedString, function(err) {
-	    if(err) {
-	        return console.log(err);
-	    }
-	    console.log("File institutional_holdings_istex.xml saved under results/");
-	});
+	var transformedString; // = xslt.transform(styleSheetDoc, theDocument, []);
+    var command = xsltEngine + ' ' + pathKbart2gs + ' ' + filename;
+    console.log('transforming with external command: ' + command);
+    exec(command, {maxBuffer: 1024 * 1000}, function (error, stdout, stderr) {
+       if (stderr) {
+           global.console.error(stderr);
+       }
+       if(error) {
+           global.console.error(error);
+       }
+       //resolve(stdout);
+       fs.writeFile("results/institutional_holdings_istex_elsevier.xml", stdout, function(err) {
+            if(err) {
+                return console.log(err);
+            }
+            console.log("File institutional_holdings_istex.xml saved under results/");
+        });
+   });
+
 	// note: a holding file cannot have more than 1 MB of data!
 	var holdingFiles = ['institutional_holdings_istex_elsevier.xml'];
 	
