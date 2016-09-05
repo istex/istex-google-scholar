@@ -1,35 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>  <!-- encoding must be UTF-8 -->
-<!--
-Configuration for external linking to articles in a library.  This file
-usually lives on a library's website.  It says how to link to the library
-and who should see these links.
 
-The name of the library and the labels for the links can be displayed in
-multiple languages, provided that the appropriate translations are
-specified in this file.  Languages are identified by their ISO 639-1 codes
-and, optionally, ISO 3166 country names.  For example:
-
-  lang attribute     description
-  _________________________________________________________________________
-  en                 English (default value when language is not specified)
-  da                 Danish
-  no                 Norwegian
-  pt-BR              Portuguese (Brazil)
-  zh-CN              Chinese (Simplified)
-  zh-TW              Chinese (Traditional)
-  _________________________________________________________________________
-
-Complete lists of ISO language and country codes can be found here:
-
-  http://www.w3.org/WAI/ER/IG/ert/iso639.htm
-  http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1.html
-
-The list of interface languages supported in Google Scholar can be found on
-the preferences page:
-
-  http://scholar.google.com/scholar_preferences
-
--->
 <!DOCTYPE institutional_links PUBLIC "-//GOOGLE//Institutional Links 1.0//EN" "http://scholar.google.com/scholar/institutional_links.dtd">
 <institutional_links>
 

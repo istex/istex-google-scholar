@@ -1,17 +1,15 @@
-const https = require('https');
+const request = require('request');
 const fs = require('fs');
 const exec = require('child_process').exec;
 
 // the url where the Google Scholar xml files will put exposed on the internet
-var url = '';
+const url = '';
 
-// parameters for getting the list of all available packages from BACON REST service (in JSON)
-var listGet = {
-    host : 'bacon.abes.fr', 
-    port : 80,
-    path : '/list.json', 
-    method : 'GET' 
-};
+// the path to the style sheet for transforming Kbart XML files
+const pathKbart2gs = 'resources/xslt/Kbart2gs.xsl';
+
+// the external XSTL engine to be called
+const xsltEngine = 'xsltproc';
 
 // parameters for getting the description of one package from BACON REST service (in XML)
 var packageGet = {
@@ -22,34 +20,21 @@ var packageGet = {
     method : 'GET' 
 };
 
-// perform GET request
-/*var reqGet = https.request(listGet, function(res) {
-    console.log("statusCode: ", res.statusCode);
-    res.on('data', function(d) {
-        console.info('GET result:\n');
-        process.stdout.write(d);
-        console.info('\n\nCall completed');
-    });
-
-});*/
-
-/*reqGet.end();
-reqGet.on('error', function(e) {
-    console.error(e);
-});*/
-
-// apply a stylesheet to an XML file and save the result 
-var pathKbart2gs = 'resources/xslt/Kbart2gs.xsl';
-var xsltEngine = 'xsltproc';
-
 function generateGoogleScholarFiles(gsFilesPath, kbartPath, outPath) {
 	console.log("Generating Google Scholar description files");
 	
-	// normally first get the list of BACON package names via bacon.abes.fr/list.json
-	
-	// then get all the package names containing the string 'ISTEX'
-	
-	// then retrieve all the ISTEX Kbart package descriptions in xml format
+    var istexPackages = [];
+	// first get the list of BACON package names via bacon.abes.fr/list.json
+    request('http://bacon.abes.fr/list.json', function (error, response, body) {
+        if (!error && response.statusCode == 200) {
+            //console.log(body);
+            // get all the package names containing the string 'ISTEX'
+
+        }
+    });
+
+    // get the Kbart files for the ISTEX packages via bacon.abes.fr/package2kbart/
+
 	
 	// for each Kbart file in xml, apply the gs style sheet 
 	var filename = kbartPath + 'ELSEVIER_FRANCE_ISTEXJOURNALS.xml';
@@ -58,12 +43,11 @@ function generateGoogleScholarFiles(gsFilesPath, kbartPath, outPath) {
     console.log('transforming with external command: ' + command);
     exec(command, {maxBuffer: 1024 * 1000}, function (error, stdout, stderr) {
        if (stderr) {
-           global.console.error(stderr);
+           console.error(stderr);
        }
-       if(error) {
-           global.console.error(error);
+       if (error) {
+           console.error(error);
        }
-       //resolve(stdout);
        fs.writeFile("results/institutional_holdings_istex_elsevier.xml", stdout, function(err) {
             if(err) {
                 return console.log(err);
