@@ -6,4 +6,5 @@
 ?au=Shu-Hua Yang&issn=0035-8711&issue=4&spage=2007&sid=google	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
 ?aufirst="Shu-Hua"&aulast="Yang"&issn=0035-8711&issue=4&spage=2007&sid=google	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
 ?atitle="Monthly Notices of the Royal Astronomical Society"&issue=4&spage=2007	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
-?ref.title="Monthly Notices of the Royal Astronomical Society"&issue=4&spage=2007	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
+?title="Monthly Notices of the Royal Astronomical Society"&issue=4&spage=2007	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
+?rtf.title="Monthly Notices of the Royal Astronomical Society"&issue=4&spage=2007	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
