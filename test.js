@@ -2,9 +2,10 @@ const request = require('sync-request');
 const fs = require('fs');
 const async = require('async');
 
-const baseOpenURL = 'http://api-integ.istex.fr/document/openurl';
+const baseOpenURL = 'https://api-integ.istex.fr/document/openurl';
 
 const testPaths = ['resources/test/google-scholar-openurls.txt', 'resources/test/openurls-0.1.txt'];
+//const testPaths = ['resources/test/openurls-0.1.txt'];
 
 function testOpenURLSet(testFilePaths) {
     var correct = 0;
@@ -15,7 +16,7 @@ function testOpenURLSet(testFilePaths) {
             if (err) {
                 return console.log(err);
             }
-            data.split('\n').forEach(function (line) { 
+            data.split('\n').forEach(function (line) {
                 if (line && (line[0] != '#')) {
                     total++;
                     var values = line.split('\t');
@@ -31,18 +32,22 @@ function testOpenURLSet(testFilePaths) {
 
                         console.log('calling: ' + urlCall);
                         try {
-                        	var response = request('GET', urlCall, {timeout : 5000});	
+                        	var response = request('GET', urlCall, {timeout : 5000});
 	                        if (response && (response.statusCode == 200)) {
 	                            if (expectedResult == 1) {
 		                            // check if returned resource matched with expected one 
-		                            var json = JSON.parse(response.body.toString());
+                                    var responseText = response.body.toString();
+		                            var json = JSON.parse(responseText);
 		                            if (json.resourceUrl) {
 		                            	var resUrl = json['resourceUrl'];
-		                            	var shortBase = baseOpenURL.replace("openurl","");
-		                            	resUrl = resUrl.replace(shortBase,"")
+		                            	var shortBase = baseOpenURL.replace("openurl","").replace("https", "http");
+		                            	resUrl = resUrl.replace(shortBase,"");
 		                            	resUrl = resUrl.replace("/fulltext/pdf","");
-		                            	if (resUrl == resourceURL)
+		                            	if (resUrl == resourceURL) {
 			                            	correct++;
+                                        } else {
+                                            console.log('Resource does not match expected one');
+                                        }
 		                        	}
 		                        }
 	                        }
