@@ -1,6 +1,9 @@
 const request = require('request');
+const syncRequest = require('sync-request');
 const fs = require('fs');
 const exec = require('child_process').exec;
+const JSSelect = require('js-select');
+const async = require('async');
 
 // the url where the Google Scholar xml files will put exposed on the internet
 const url = '';
@@ -25,20 +28,27 @@ function generateGoogleScholarFiles(gsFilesPath, kbartPath, outPath) {
 	
     var istexPackages = [];
 	// first get the list of BACON package names via bacon.abes.fr/list.json
-    request('http://bacon.abes.fr/list.json', function (error, response, body) {
-        if (!error && response.statusCode == 200) {
-            //console.log(body);
-            // get all the package names containing the string 'ISTEX'
 
-        }
-    });
+	console.log("Getting ISTEX package names via BACON service");
+	var response = syncRequest('GET', 'https://bacon.abes.fr/list.json', {timeout : 30000});
+	if (response && (response.statusCode == 200)) {
+        // get all the package names containing the string 'ISTEX'
+        var responseText = response.body.toString();
+		var json = JSON.parse(responseText);
+		var nodes = JSSelect(json, ".bacon .package_id").nodes();
+		for(var node in nodes) {
+			addISTEXPackage(nodes[node], istexPackages);
+		}
+	} else {
+    	console.error('Error code ' + response.statusCode);
+    }
 
     // get the Kbart files for the ISTEX packages via bacon.abes.fr/package2kbart/
-
+    console.log(istexPackages);
 	
 	// for each Kbart file in xml, apply the gs style sheet 
+	// -> for the moment we only consider Elsevier Journals
 	var filename = kbartPath + 'ELSEVIER_FRANCE_ISTEXJOURNALS.xml';
-	var transformedString; // = xslt.transform(styleSheetDoc, theDocument, []);
     var command = xsltEngine + ' ' + pathKbart2gs + ' ' + filename;
     console.log('transforming with external command: ' + command);
     exec(command, {maxBuffer: 1024 * 1000}, function (error, stdout, stderr) {
@@ -77,6 +87,18 @@ function generateGoogleScholarFiles(gsFilesPath, kbartPath, outPath) {
 		    console.log("File institutional_links_istex.xml saved under results/");
 		});
 	});
+}
+
+function addISTEXPackage(package_id, istexPackages) {
+	if (package_id.indexOf('ISTEX') != -1) {
+		// we need to remove the trailing date information
+		var pos = package_id.indexOf("201");
+		if (pos != -1) {
+			package_id = package_id.substring(0, pos-1);
+			if (istexPackages.indexOf(package_id) == -1)
+				istexPackages.push(package_id);
+		}
+	}
 }
 
 generateGoogleScholarFiles('resources/institutional_links_istex.xml', 
