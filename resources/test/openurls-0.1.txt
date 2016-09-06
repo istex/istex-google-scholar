@@ -1,4 +1,4 @@
-# OpenURL	result[0,1]	ISTEX_ID
+# OpenURL	result[0,1]	ISTEX_ID (optional)
 ?id=doi:10.1111/j.1365-2966.2010.16238.x	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
 ?au="Shu-Hua Yang"&ref.title="Monthly Notices of the Royal Astronomical Society"&issue=4	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
 ?au="Shu-Hua Yang"&atitle="Monthly Notices of the Royal Astronomical Society"&issue=4	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D

@@ -5,7 +5,6 @@ const async = require('async');
 const baseOpenURL = 'https://api-integ.istex.fr/document/openurl';
 
 const testPaths = ['resources/test/google-scholar-openurls.txt', 'resources/test/openurls-0.1.txt'];
-//const testPaths = ['resources/test/openurls-0.1.txt'];
 
 function testOpenURLSet(testFilePaths) {
     var correct = 0;
@@ -20,16 +19,22 @@ function testOpenURLSet(testFilePaths) {
                 if (line && (line[0] != '#')) {
                     total++;
                     var values = line.split('\t');
-                    if (values.length != 3) {
+                    if ((values.length != 3) && (values.length != 2)) {
                         console.error('Malformed test line: ' + line);
-                        console.error('Malformed test line: ' + values.length + " tokens");
+                        console.error('Invalid number of tokens: ' + values.length + " tokens");
                     } else {
                         var openURL = values[0];
                         var expectedResult = values[1];
-                        var resourceURL = values[2];
+                        var resourceURL = null;
+                        if (values.length == 3)
+                            resourceURL = values[2];
+                        else if (expectedResult == 1) {
+                            console.error('Malformed test line: ' + line);
+                            console.error('Missing expected result as third token');
+                            return;
+                        }
 
                         var urlCall = baseOpenURL+openURL+"&noredirect";
-
                         console.log('calling: ' + urlCall);
                         try {
                         	var response = request('GET', urlCall, {timeout : 5000});

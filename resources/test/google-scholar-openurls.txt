@@ -1,4 +1,4 @@
-# OpenURL	result[0,1]	ISTEX_ID
+# OpenURL	result[0,1]	ISTEX_ID (optional)
 ?sid=google&auinit=WJH&aulast=NAUTA&atitle=Hippocampal+projections+and+related+neural+pathways+to+the+mid-brain+in+the+cat&id=pmid:13596467	1	EA49A5FDB057C942B498E022F285CE99A7C56BD9
 ?sid=google&auinit=F&aulast=Castelli&atitle=Autism,+Asperger+syndrome+and+brain+mechanisms+for+the+attribution+of+mental+states+to+animated+shapes&id=pmid:12135974	1	E50884C07DA568FFFC0AEBE5B67F90C888821F06
 ?sid=google&auinit=P&aulast=Damier&atitle=The+substantia+nigra+of+the+human+brain&id=pmid:10430829	1	2CC2ECDE5193196764515EF802B66656D80CF1FA
@@ -46,3 +46,23 @@
 ?sid=google&auinit=PS&aulast=Tofts&atitle=Measurement+of+the+blood%E2%80%90brain+barrier+permeability+and+leakage+space+using+dynamic+MR+imaging.+1.+Fundamental+concepts&id=doi:10.1002/mrm.1910170208&title=Magnetic+resonance+in+medicine&volume=17&issue=2&date=1991&spage=357&issn=0740-3194	1	AF2D0BBC951F4FAEA52929838B8326FC5A5B358D
 ?sid=google&auinit=SJ&aulast=Colcombe&atitle=Aerobic+exercise+training+increases+brain+volume+in+aging+humans&id=pmid:17167157	1	CF977DD9897B1521C6AA8FE03661FE13A73B8C35
 ?sid=google&auinit=ME&aulast=Raichle&atitle=Practice-related+changes+in+human+brain+functional+anatomy+during+nonmotor+learning&id=pmid:8180494	1	D74CBEB38E75DC7457769C53EE31CECACDD3F1BF
+?sid=google&auinit=L&aulast=Wilson&atitle=Explosive+volcanic+eruptions%E2%80%94IV.+The+control+of+magma+properties+and+conduit+geometry+on+eruption+column+behaviour&id=doi:10.1111/j.1365-246X.1980.tb02613.x&title=Geophys.+J.+Int&volume=63&issue=1&date=1980&spage=117	1	2D4C6A02671E10B28D03F7A0BCB9B282AFDA5B47
+?sid=google&auinit=AK&aulast=Ekert&atitle=Quantum+cryptography+based+on+Bell%E2%80%99s+theorem&id=doi:10.1103/PhysRevLett.67.661&title=Physical+review+letters&volume=67&issue=6&date=1991&spage=661&issn=0031-9007	0
+?sid=google&auinit=W&aulast=Diffie&atitle=New+directions+in+cryptography&id=doi:10.1109/TIT.1976.1055638&title=IEEE+Transactions+on+Information+Theory&volume=22&issue=6&date=1976&spage=644&issn=0018-9448	0
+?sid=google&auinit=AM&aulast=Froomkin&atitle=The+metaphor+is+the+key:+cryptography,+the+clipper+chip,+and+the+constitution&title=University+of+Pennsylvania+law+review&volume=143&issue=3&date=1995&spage=709&issn=0041-9907	0
+?sid=google&auinit=M&aulast=Nitzberg&atitle=Nonlinear+image+filtering+with+edge+and+corner+enhancement&id=doi:10.1109/34.149593&title=IEEE+Transactions+on+Pattern+Analysis+and+Machine+Intelligence&volume=14&issue=8&date=1992&spage=826&issn=0162-8828	0
+?sid=google&auinit=C&aulast=Veraart&atitle=Selective+control+of+muscle+activation+with+a+multipolar+nerve+cuff+electrode&id=doi:10.1109/10.237694&title=IEEE+Transactions+on+Biomedical+Engineering&volume=40&issue=7&date=1993&spage=640&issn=0018-9294
+?sid=google&auinit=C&aulast=Joubert&atitle=Temperature+and+food+influence+shell+growth+and+mantle+gene+expression+of+shell+matrix+proteins+in+the+pearl+oyster+Pinctada+margaritifera&id=doi:10.1371/journal.pone.0103944&title=PLoS+One&volume=9&issue=8&date=2014&spage=e103944&issn=1932-6203
+?sid=google&auinit=A&aulast=Raniwala&atitle=Architecture+and+algorithms+for+an+IEEE+802.11-based+multi-channel+wireless+mesh+network&id=doi:10.1109/INFCOM.2005.1498497&title=Proceedings&volume=3&date=2005&spage=2223&issn=0743-166X
+?sid=google&auinit=MD&aulast=Murphy&atitle=Remobilization+of+andesite+magma+by+intrusion+of+mafic+magma+at+the+Soufriere+Hills+Volcano,+Montserrat,+West+Indies&id=doi:10.1093/petrology/41.1.21&title=Journal+of+Petrology&volume=41&issue=1&date=2000&spage=21&issn=0022-3530	0
+?sid=google&auinit=T&aulast=Venturini&atitle=Diving+in+magma:+How+to+explore+controversies+with+actor-network+theory&id=doi:10.1177/0963662509102694&title=Public+understanding+of+science&volume=19&issue=3&date=2010&spage=258&issn=0963-6625	0
+?sid=google&auinit=H&aulast=Si&atitle=TetGen,+a+Delaunay-based+quality+tetrahedral+mesh+generator&id=doi:10.1145/2629697&title=ACM+transactions+on+mathematical+software&volume=41&issue=2&date=2015&spage=11&issn=0098-3500	0
+?sid=google&auinit=MS&aulast=Bernstein&atitle=Soylent:+a+word+processor+with+a+crowd+inside&id=doi:10.1145/2791285&title=Communications+of+the+ACM&volume=58&issue=8&date=2015&spage=85&issn=0001-0782	0
+?sid=google&auinit=CC&aulast=Erway&atitle=Dynamic+provable+data+possession&id=doi:10.1145/2699909&title=ACM+transactions+on+information+and+system+security&volume=17&issue=4&date=2015&spage=15&issn=1094-9224	0
+?sid=google&auinit=SA&aulast=Khot&atitle=The+Unique+Games+Conjecture,+Integrality+Gap+for+Cut+Problems+and+Embeddability+of+Negative-Type+Metrics+into+%E2%84%93+1&id=doi:10.1145/2629614&title=Journal+of+the+Association+for+Computing+Machinery&volume=62&issue=1&date=2015&spage=8&issn=0004-5411	0
+?sid=google&auinit=D&aulast=Heckerman&atitle=Real-world+applications+of+Bayesian+networks&id=doi:10.1145/203330.203334&title=Communications+of+the+ACM&volume=38&issue=3&date=1995&spage=24&issn=0001-0782	0
+?sid=google&auinit=CL&aulast=Bajaj&atitle=Automatic+reconstruction+of+surfaces+and+scalar+fields+from+3D+scans&id=doi:10.1145/218380.218424	0
+?sid=google&auinit=R&aulast=Pausch&atitle=Navigation+and+locomotion+in+virtual+worlds+via+flight+into+hand-held+miniatures&id=doi:10.1145/218380.218495	0
+?sid=google&auinit=OMF&aulast=De+Troyer&atitle=WSDM:+a+user+centered+design+method+for+Web+sites&id=doi:10.1016/S0169-7552(98)00042-7&title=Computer+Networks+and+Systems&volume=30&issue=1&date=1998&spage=85&issn=0169-7552	0
+?sid=google&auinit=MA&aulast=Hearst&atitle=TileBars:+visualization+of+term+distribution+information+in+full+text+information+access&id=doi:10.1145/223904.223912	0
+
