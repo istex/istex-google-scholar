@@ -3,7 +3,6 @@ const syncRequest = require('sync-request');
 const fs = require('fs');
 const exec = require('child_process').exec;
 const JSSelect = require('js-select');
-const async = require('async');
 
 // the url where the Google Scholar xml files will put exposed on the internet
 const url = '';
