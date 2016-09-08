@@ -1,11 +1,10 @@
-const request = require('request');
 const syncRequest = require('sync-request');
 const fs = require('fs');
 const exec = require('child_process').exec;
 const JSSelect = require('js-select');
 
 // the url where the Google Scholar xml files will put exposed on the internet
-const url = '';
+const url = 'https://content-delivery.istex.fr/google-scholar';
 
 // the path to the style sheet for transforming Kbart XML files
 const pathKbart2gs = 'resources/xslt/Kbart2gs.xsl';
@@ -29,7 +28,7 @@ function generateGoogleScholarFiles(gsFilesPath, kbartPath, outPath) {
 	// first get the list of BACON package names via bacon.abes.fr/list.json
 
 	console.log("Getting ISTEX package names via BACON service");
-	var response = syncRequest('GET', 'https://bacon.abes.fr/list.json', {timeout : 30000});
+	var response = syncRequest('GET', 'https://bacon.abes.fr/list.json', {proxy: 'http://proxyout.inist.fr:8080',timeout : 30000});
 	if (response && (response.statusCode == 200)) {
         // get all the package names containing the string 'ISTEX'
         var responseText = response.body.toString();
