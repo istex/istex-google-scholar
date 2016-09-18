@@ -93,7 +93,7 @@
   <!-- (REQUIRED; at most 1000 URLs, each at most 1024 bytes long and -->
   <!-- each carrying at most 1MB of content) -->
   	<electronic_holdings>
-		<url>/institutional_holdings_istex_elsevier.xml</url>
+		<url>https://content-delivery.istex.fr/google-scholar/institutional_holdings_istex_elsevier.xml</url>
 	</electronic_holdings>
 
 </institutional_links>

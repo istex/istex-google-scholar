@@ -1,11 +1,10 @@
-const request = require('request');
 const syncRequest = require('sync-request');
 const fs = require('fs');
 const exec = require('child_process').exec;
 const JSSelect = require('js-select');
 
 // the url where the Google Scholar xml files will put exposed on the internet
-const url = '';
+const url = 'https://content-delivery.istex.fr/google-scholar';
 
 // the path to the style sheet for transforming Kbart XML files
 const pathKbart2gs = 'resources/xslt/Kbart2gs.xsl';
