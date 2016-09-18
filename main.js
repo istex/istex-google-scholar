@@ -29,7 +29,10 @@ function generateGoogleScholarFiles(gsFilesPath, kbartPath, outPath) {
 	// first get the list of BACON package names via bacon.abes.fr/list.json
 
 	console.log("Getting ISTEX package names via BACON service");
-	var response = syncRequest('GET', 'https://bacon.abes.fr/list.json', {timeout : 30000});
+	// we use the BACON service filter parameters for getting only the ISTEX package names
+	var response = syncRequest('GET', 
+		'http://bacon.abes.fr/filter/providerid=0&standardpackage=0&masterlist=0&labelled=0&istex=1&mixte=1&monograph=1&serial=1', 
+		{timeout : 30000});
 	if (response && (response.statusCode == 200)) {
         // get all the package names containing the string 'ISTEX'
         var responseText = response.body.toString();
@@ -89,14 +92,12 @@ function generateGoogleScholarFiles(gsFilesPath, kbartPath, outPath) {
 }
 
 function addISTEXPackage(package_id, istexPackages) {
-	if (package_id.indexOf('ISTEX') != -1) {
-		// we need to remove the trailing date information
-		var pos = package_id.indexOf("201");
-		if (pos != -1) {
-			package_id = package_id.substring(0, pos-1);
-			if (istexPackages.indexOf(package_id) == -1)
-				istexPackages.push(package_id);
-		}
+	// we need to remove the trailing date information
+	var pos = package_id.indexOf("201");
+	if (pos != -1) {
+		package_id = package_id.substring(0, pos-1);
+		if (istexPackages.indexOf(package_id) == -1)
+			istexPackages.push(package_id);
 	}
 }
 
