@@ -92,7 +92,7 @@
   <!-- See institutional_holdings.xml for the format specification. -->
   <!-- (REQUIRED; at most 1000 URLs, each at most 1024 bytes long and -->
   <!-- each carrying at most 1MB of content) -->
-  	<electronic_holdings>
+  <electronic_holdings>
 		<url>https://content-delivery.istex.fr/google-scholar/institutional_holdings_ELSEVIER_FRANCE_ISTEXJOURNALS.xml</url>
 		<url>https://content-delivery.istex.fr/google-scholar/institutional_holdings_SPRINGER_FRANCE_ISTEXJOURNALS.xml</url>
 		<url>https://content-delivery.istex.fr/google-scholar/institutional_holdings_WILEY_FRANCE_ISTEXJOURNALS.xml</url>

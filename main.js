@@ -89,7 +89,7 @@ function generateGoogleScholarFiles(gsFilesPath, kbartPath, outPath) {
 	  	if (err) {
 	    	return console.log(err);
 	  	}
-		var replacementString = '\t<electronic_holdings>\n';
+		var replacementString = '<electronic_holdings>\n';
 		for(var holdingFile in holdingFiles) {
 			replacementString += '\t\t<url>' + url + '/' + holdingFiles[holdingFile] + '</url>\n';
 		}
