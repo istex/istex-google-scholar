@@ -19,13 +19,13 @@
   <!-- Contact emails for technical issues, etc. -->
   <!-- This is for administrative purposes; users won't see it. -->
   <!-- (REQUIRED; at most 5 emails, no more than 60 characters each) -->
-  <contact>Stéphane GULLY &lt;Stephane.GULLY@inist.fr>&gt;</contact>
+  <contact>Stéphane GULLY &lt;Stephane.GULLY@inist.fr&gt;</contact>
   <contact>Claude Niederlender &lt;claude.niederlender@inist.fr&gt;</contact>
 
   <!-- The label for the links to your electronic full text. -->
   <!-- It should be short and should include the name of your library. -->
   <!-- (REQUIRED; no more than 25 characters) -->
-  <electronic_link_label>ISTEX [PDF]</electronic_link_label>
+  <electronic_link_label>[PDF] ISTEX</electronic_link_label>
   <!-- Optional translations of <electronic_link_label> into other languages. -->
   <!-- (REPEATED; no more than 10 translations, 25 characters each) -->
   <!-- <electronic_link_label lang="pt-BR">FBB eTexto</electronic_link_label> -->
@@ -58,7 +58,7 @@
     Base URL: http://frame.ac.lt/frame?top=logo&url=http://lib.bbc.ac.lt/bbc_link%3Ffmt%3Dfull%26
         Link: http://frame.ac.lt/frame?top=logo&url=http://lib.bbc.ac.lt/bbc_link%3Ffmt%3Dfull%26sid%3Dgoogle%26title%3DThe%2BJournal
    -->
-  <openurl_base>https://api.istex.fr/document/openurl</openurl_base>
+  <openurl_base>https://api.istex.fr/document/openurl?auth=ip,fede&amp;</openurl_base>
 
   <!-- Linking options supported in your link resolver. -->
   <!-- (at least one is REQUIRED; please check that they actually work) -->
@@ -93,7 +93,9 @@
   <!-- (REQUIRED; at most 1000 URLs, each at most 1024 bytes long and -->
   <!-- each carrying at most 1MB of content) -->
   	<electronic_holdings>
-		<url>https://content-delivery.istex.fr/google-scholar/institutional_holdings_istex_elsevier.xml</url>
+		<url>https://content-delivery.istex.fr/google-scholar/institutional_holdings_ELSEVIER_FRANCE_ISTEXJOURNALS.xml</url>
+		<url>https://content-delivery.istex.fr/google-scholar/institutional_holdings_SPRINGER_FRANCE_ISTEXJOURNALS.xml</url>
+		<url>https://content-delivery.istex.fr/google-scholar/institutional_holdings_WILEY_FRANCE_ISTEXJOURNALS.xml</url>
 	</electronic_holdings>
 
 </institutional_links>

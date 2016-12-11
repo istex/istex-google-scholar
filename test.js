@@ -2,7 +2,7 @@ const request = require('sync-request');
 const fs = require('fs');
 const async = require('async');
 
-const baseOpenURL = 'https://api-integ.istex.fr/document/openurl';
+const baseOpenURL = 'https://api.istex.fr/document/openurl';
 
 const testPaths = ['resources/test/google-scholar-openurls.txt', 'resources/test/openurls-0.1.txt'];
 

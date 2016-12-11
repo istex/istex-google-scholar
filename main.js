@@ -12,6 +12,9 @@ const pathKbart2gs = 'resources/xslt/Kbart2gs.xsl';
 // the external XSTL engine to be called
 const xsltEngine = 'xsltproc';
 
+// the list of kbart "collections" to be generated as Google XML holding, expressed with their kbart name
+const toBeGenerated = ['ELSEVIER_FRANCE_ISTEXJOURNALS', 'SPRINGER_FRANCE_ISTEXJOURNALS', 'WILEY_FRANCE_ISTEXJOURNALS'];
+
 // parameters for getting the description of one package from BACON REST service (in XML)
 var packageGet = {
     host : 'bacon.abes.fr', 
@@ -27,7 +30,7 @@ function generateGoogleScholarFiles(gsFilesPath, kbartPath, outPath) {
     var istexPackages = [];
 	// first get the list of BACON package names via bacon.abes.fr/list.json
 
-	console.log("Getting ISTEX package names via BACON service");
+	console.log("Getting ISTEX packages via BACON service");
 	// we use the BACON service filter parameters for getting only the ISTEX package names
 	var response = syncRequest('GET', 
 		'http://bacon.abes.fr/filter/providerid=0&standardpackage=0&masterlist=0&labelled=0&istex=1&mixte=1&monograph=1&serial=1', 
@@ -47,31 +50,42 @@ function generateGoogleScholarFiles(gsFilesPath, kbartPath, outPath) {
     // get the Kbart files for the ISTEX packages via bacon.abes.fr/package2kbart/
     console.log(istexPackages);
 	
-	// for each Kbart file in xml, apply the gs style sheet 
-	// -> for the moment we only consider Elsevier Journals
-	var filename = kbartPath + 'ELSEVIER_FRANCE_ISTEXJOURNALS.xml';
-    var command = xsltEngine + ' ' + pathKbart2gs + ' ' + filename;
-    console.log('transforming with external command: ' + command);
-    exec(command, {maxBuffer: 1024 * 1000}, function (error, stdout, stderr) {
-       if (stderr) {
-           console.error(stderr);
-       }
-       if (error) {
-           console.error(error);
-       }
-       fs.writeFile("results/institutional_holdings_istex_elsevier.xml", stdout, function(err) {
-            if(err) {
-                return console.log(err);
-            }
-            console.log("File institutional_holdings_istex.xml saved under results/");
-        });
-   });
+    // update the local kbart files based on the list of istex names
+    for (var i = 0, len = istexPackages.length; i < len; i++) {
+    	updateISTEXKbartPackage(istexPackages[i], "resources/kbart/");
+    };
 
-	// note: a holding file cannot have more than 1 MB of data!
-	var holdingFiles = ['institutional_holdings_istex_elsevier.xml'];
+	// list of generated Google files
+    var holdingFiles = [];
+
+	// for each Kbart file in xml to be generated into Google XML format, apply the gs style sheet 
+	for (var i = 0, len = toBeGenerated.length; i < len; i++) {	
+		// collection name must match with the KBART name
+		var collection = toBeGenerated[i];
+		var filename = kbartPath + collection + '.xml';
+	    var command = xsltEngine + ' ' + pathKbart2gs + ' ' + filename;
+	    console.log('transforming with external command: ' + command);
+	    exec(command, {maxBuffer: 1024 * 1000}, function (error, stdout, stderr) {
+	       if (stderr) {
+	           console.error(stderr);
+	       }
+	       if (error) {
+	           console.error(error);
+	       }
+	       fs.writeFile("results/institutional_holdings_"+collection+".xml", stdout, function(err) {
+	            if(err) {
+	                return console.log(err);
+	            }
+	            console.log("File institutional_holdings_"+collection+".xml saved under results/");
+	        });
+	    });
+
+		// note: a holding file cannot have more than 1 MB of data!
+		holdingFiles.push("institutional_holdings_"+collection+".xml");
+	};
 	
-	// write institutional_links file which will refer to the previous holding file(s)
-	fs.readFile('resources/institutional_links_istex.xml', 'utf8', function (err,data) {
+	// write ISTEX institutional_links file which will refer to the previous holding file(s)
+	fs.readFile("resources/institutional_links_istex.xml", "utf8", function (err,data) {
 	  	if (err) {
 	    	return console.log(err);
 	  	}
@@ -88,6 +102,7 @@ function generateGoogleScholarFiles(gsFilesPath, kbartPath, outPath) {
 		    console.log("File institutional_links_istex.xml saved under results/");
 		});
 	});
+
 }
 
 function addISTEXPackage(package_id, istexPackages) {
@@ -99,6 +114,24 @@ function addISTEXPackage(package_id, istexPackages) {
 			istexPackages.push(package_id);
 	}
 }
+
+
+function updateISTEXKbartPackage(package_id, path) {
+	var response = syncRequest("GET", 
+		"https://bacon.abes.fr/package2kbart/"+package_id+".xml", 
+		{timeout : 30000});
+	if (response && (response.statusCode == 200)) {
+		var responseText = response.body.toString();		
+		// save locally the delivered XML Kbart file
+		try {
+			fs.writeFileSync(path+package_id+".xml", responseText);
+			console.log("Package " + package_id +" successfully updated.");
+		} catch(err) {
+			console.log("Opps: " + err);
+		}
+	}
+}
+
 
 generateGoogleScholarFiles('resources/institutional_links_istex.xml', 
 	'resources/kbart/', 
