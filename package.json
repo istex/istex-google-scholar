@@ -13,10 +13,8 @@
   "author": "Patrice Lopez <patrice.lopez@science-miner.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "sync-request": "^2.2.0",
     "async": "^2.1.4",
-    "js-select": "^0.6.0"
+    "js-select": "^0.6.0",
+    "request": "^2.79.0"
   }
 }
-
-	
