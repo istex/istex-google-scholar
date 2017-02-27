@@ -1,10 +1,12 @@
 # OpenURL	result[0,1]	ISTEX_ID (optional)
-?id=doi:10.1111/j.1365-2966.2010.16238.x	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
-?au="Shu-Hua Yang"&ref.title="Monthly Notices of the Royal Astronomical Society"&issue=4	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
-?au="Shu-Hua Yang"&atitle="Monthly Notices of the Royal Astronomical Society"&issue=4	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
-?au="Shu-Hua Yang"&title="Monthly Notices of the Royal Astronomical Society"&issue=4	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
-?au=Shu-Hua Yang&issn=0035-8711&issue=4&spage=2007&sid=google	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
-?aufirst="Shu-Hua"&aulast="Yang"&issn=0035-8711&issue=4&spage=2007&sid=google	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
-?atitle="Monthly Notices of the Royal Astronomical Society"&issue=4&spage=2007	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
-?title="Monthly Notices of the Royal Astronomical Society"&issue=4&spage=2007	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
-?rtf.title="Monthly Notices of the Royal Astronomical Society"&issue=4&spage=2007	1	195738F43F3FE6AD276CD8BAC3E554562B5BD60D
+# duplicate ISTEX resource for the same article/DOI
+?id=doi:10.1111/j.1365-2966.2010.16238.x	1	CEE1C683D7BD90A36EF2B2D85401B5BF479819B1
+?id=doi:10.1111/j.1365-2966.2010.16238.x	1	1247E8AC854E4470F972E41DE631F5D1F3F88155
+?au="Shu-Hua Yang"&ref.title="Monthly Notices of the Royal Astronomical Society"&issue=4	1	1247E8AC854E4470F972E41DE631F5D1F3F88155
+?au="Shu-Hua Yang"&atitle="Monthly Notices of the Royal Astronomical Society"&issue=4	1	1247E8AC854E4470F972E41DE631F5D1F3F88155
+?au="Shu-Hua Yang"&title="Monthly Notices of the Royal Astronomical Society"&issue=4	1	1247E8AC854E4470F972E41DE631F5D1F3F88155
+?au=Shu-Hua Yang&issn=0035-8711&issue=4&spage=2007&sid=google	1	1247E8AC854E4470F972E41DE631F5D1F3F88155
+?aufirst="Shu-Hua"&aulast="Yang"&issn=0035-8711&issue=4&spage=2007&sid=google	1	1247E8AC854E4470F972E41DE631F5D1F3F88155
+?atitle="Monthly Notices of the Royal Astronomical Society"&issue=4&spage=2007	1	1247E8AC854E4470F972E41DE631F5D1F3F88155
+?title="Monthly Notices of the Royal Astronomical Society"&issue=4&spage=2007	1	1247E8AC854E4470F972E41DE631F5D1F3F88155
+?rtf.title="Monthly Notices of the Royal Astronomical Society"&issue=4&spage=2007	1	1247E8AC854E4470F972E41DE631F5D1F3F88155

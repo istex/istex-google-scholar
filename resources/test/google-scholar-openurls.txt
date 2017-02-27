@@ -51,9 +51,9 @@
 ?sid=google&auinit=W&aulast=Diffie&atitle=New+directions+in+cryptography&id=doi:10.1109/TIT.1976.1055638&title=IEEE+Transactions+on+Information+Theory&volume=22&issue=6&date=1976&spage=644&issn=0018-9448	0
 ?sid=google&auinit=AM&aulast=Froomkin&atitle=The+metaphor+is+the+key:+cryptography,+the+clipper+chip,+and+the+constitution&title=University+of+Pennsylvania+law+review&volume=143&issue=3&date=1995&spage=709&issn=0041-9907	0
 ?sid=google&auinit=M&aulast=Nitzberg&atitle=Nonlinear+image+filtering+with+edge+and+corner+enhancement&id=doi:10.1109/34.149593&title=IEEE+Transactions+on+Pattern+Analysis+and+Machine+Intelligence&volume=14&issue=8&date=1992&spage=826&issn=0162-8828	0
-?sid=google&auinit=C&aulast=Veraart&atitle=Selective+control+of+muscle+activation+with+a+multipolar+nerve+cuff+electrode&id=doi:10.1109/10.237694&title=IEEE+Transactions+on+Biomedical+Engineering&volume=40&issue=7&date=1993&spage=640&issn=0018-9294
-?sid=google&auinit=C&aulast=Joubert&atitle=Temperature+and+food+influence+shell+growth+and+mantle+gene+expression+of+shell+matrix+proteins+in+the+pearl+oyster+Pinctada+margaritifera&id=doi:10.1371/journal.pone.0103944&title=PLoS+One&volume=9&issue=8&date=2014&spage=e103944&issn=1932-6203
-?sid=google&auinit=A&aulast=Raniwala&atitle=Architecture+and+algorithms+for+an+IEEE+802.11-based+multi-channel+wireless+mesh+network&id=doi:10.1109/INFCOM.2005.1498497&title=Proceedings&volume=3&date=2005&spage=2223&issn=0743-166X
+?sid=google&auinit=C&aulast=Veraart&atitle=Selective+control+of+muscle+activation+with+a+multipolar+nerve+cuff+electrode&id=doi:10.1109/10.237694&title=IEEE+Transactions+on+Biomedical+Engineering&volume=40&issue=7&date=1993&spage=640&issn=0018-9294	0
+?sid=google&auinit=C&aulast=Joubert&atitle=Temperature+and+food+influence+shell+growth+and+mantle+gene+expression+of+shell+matrix+proteins+in+the+pearl+oyster+Pinctada+margaritifera&id=doi:10.1371/journal.pone.0103944&title=PLoS+One&volume=9&issue=8&date=2014&spage=e103944&issn=1932-6203	0
+?sid=google&auinit=A&aulast=Raniwala&atitle=Architecture+and+algorithms+for+an+IEEE+802.11-based+multi-channel+wireless+mesh+network&id=doi:10.1109/INFCOM.2005.1498497&title=Proceedings&volume=3&date=2005&spage=2223&issn=0743-166X	0
 ?sid=google&auinit=MD&aulast=Murphy&atitle=Remobilization+of+andesite+magma+by+intrusion+of+mafic+magma+at+the+Soufriere+Hills+Volcano,+Montserrat,+West+Indies&id=doi:10.1093/petrology/41.1.21&title=Journal+of+Petrology&volume=41&issue=1&date=2000&spage=21&issn=0022-3530	0
 ?sid=google&auinit=T&aulast=Venturini&atitle=Diving+in+magma:+How+to+explore+controversies+with+actor-network+theory&id=doi:10.1177/0963662509102694&title=Public+understanding+of+science&volume=19&issue=3&date=2010&spage=258&issn=0963-6625	0
 ?sid=google&auinit=H&aulast=Si&atitle=TetGen,+a+Delaunay-based+quality+tetrahedral+mesh+generator&id=doi:10.1145/2629697&title=ACM+transactions+on+mathematical+software&volume=41&issue=2&date=2015&spage=11&issn=0098-3500	0
@@ -63,6 +63,6 @@
 ?sid=google&auinit=D&aulast=Heckerman&atitle=Real-world+applications+of+Bayesian+networks&id=doi:10.1145/203330.203334&title=Communications+of+the+ACM&volume=38&issue=3&date=1995&spage=24&issn=0001-0782	0
 ?sid=google&auinit=CL&aulast=Bajaj&atitle=Automatic+reconstruction+of+surfaces+and+scalar+fields+from+3D+scans&id=doi:10.1145/218380.218424	0
 ?sid=google&auinit=R&aulast=Pausch&atitle=Navigation+and+locomotion+in+virtual+worlds+via+flight+into+hand-held+miniatures&id=doi:10.1145/218380.218495	0
-?sid=google&auinit=OMF&aulast=De+Troyer&atitle=WSDM:+a+user+centered+design+method+for+Web+sites&id=doi:10.1016/S0169-7552(98)00042-7&title=Computer+Networks+and+Systems&volume=30&issue=1&date=1998&spage=85&issn=0169-7552	0
+?sid=google&auinit=OMF&aulast=De+Troyer&atitle=WSDM:+a+user+centered+design+method+for+Web+sites&id=doi:10.1016/S0169-7552(98)00042-7&title=Computer+Networks+and+Systems&volume=30&issue=1&date=1998&spage=85&issn=0169-7552	1	2E4B3F1AF79B639BA6161DDCEFF6A3B6744C297A
 ?sid=google&auinit=MA&aulast=Hearst&atitle=TileBars:+visualization+of+term+distribution+information+in+full+text+information+access&id=doi:10.1145/223904.223912	0
 
