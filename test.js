@@ -45,10 +45,11 @@ function testOpenURLSet(testFilePaths) {
 		                            var json = JSON.parse(responseText);
 		                            if (json.resourceUrl) {
 		                            	var resUrl = json['resourceUrl'];
-		                            	var shortBase = baseOpenURL.replace("openurl","").replace("https", "http");
+		                            	var shortBase = baseOpenURL.replace("openurl","").replace("http:", "https:");
 		                            	resUrl = resUrl.replace(shortBase,"");
 		                            	resUrl = resUrl.replace("/fulltext/pdf","");
-		                            	if (resUrl == resourceURL) {
+                                        resUrl = resUrl.replace("?sid=google","");
+		                            	if (resUrl === resourceURL) {
 			                            	correct++;
                                         } else {
                                             console.log('Resource does not match expected one');
