@@ -4,13 +4,16 @@ const async = require('async');
 
 const baseOpenURL = 'https://api.istex.fr/document/openurl';
 
-const testPaths = ['resources/test/google-scholar-openurls.txt', 'resources/test/openurls-0.1.txt'];
+const testPaths = ['resources/test/google-scholar-openurls.txt', 
+    'resources/test/openurls-0.1.txt'//, 
+    //'resources/test/openurls-1.0.txt'
+    ];
 
 const green = '\x1b[32m';
 const red = '\x1b[31m';
 const orange = '\x1b[33m';
 const white = '\x1b[37m';
-const score = '\x1b[4m';
+const score = '\x1b[7m';
 const reset = '\x1b[0m';
 
 function testOpenURLSet(testFilePaths) {
@@ -27,7 +30,7 @@ function testOpenURLSet(testFilePaths) {
                     total++;
                     var values = line.split('\t');
                     if ((values.length != 3) && (values.length != 2)) {
-                        console.error(red, 'Malformed test line: ' + line);
+                        console.error(red, '\nMalformed test line: ' + line);
                         console.error(red, 'Invalid number of tokens: ' + values.length + " tokens");
                     } else {
                         var openURL = values[0];
@@ -36,7 +39,7 @@ function testOpenURLSet(testFilePaths) {
                         if (values.length == 3)
                             resourceURL = values[2];
                         else if (expectedResult == 1) {
-                            console.error(red, 'Malformed test line: ' + line);
+                            console.error(red, '\nMalformed test line: ' + line);
                             console.error(red, 'Missing expected result as third token');
                             return;
                         }
@@ -82,9 +85,9 @@ function testOpenURLSet(testFilePaths) {
                     }
                 }
             });
-            console.log(reset, "");
-			console.log(score, "correct/total: " + correct+"/"+total + ", " + (100 * correct/total) + "%");  
-            console.log(reset, "\n");
+            console.log(reset,"");
+			console.log(score,"correct/total: " + correct+"/"+total + ", " + (100 * correct/total).toFixed(2) + "%");  
+            console.log(reset,"\n");
         });
     }
 }
