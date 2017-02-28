@@ -1,28 +1,28 @@
 # OpenURL	result[0,1]	ISTEX_ID (optional)
 ?rft.aulast=Hirafuji&rft.atitle=Shinwagaku+to+nihon+no+kamigami+%5BMythology+and+Japanese+gods%5D	0
 ?rft.aulast=Mizoguchi&rft.atitle=Amaterasu+no+Tanjo+Kodaioken+no+Genryu+wo+Saguru+%5BThe+birth+of+Amaterasu+Exploring+the+origin+of+ancient+sovereign+rights	0
-?rft.issue=3&rft.spage=1&rft.atitle=She+Drank+His+Money+%22++Survival+Sex+and+the+Problem+of+Violence+in+Taverns+in+Gauteng+South+Africa&rft.jtitle=Medical+Anthropology+Quarterly	0
+?rft.issue=3&rft.spage=1&rft.atitle=She+Drank+His+Money+%22++Survival+Sex+and+the+Problem+of+Violence+in+Taverns+in+Gauteng+South+Africa&rft.jtitle=Medical+Anthropology+Quarterly	1	B16C92D4C50CA6AA6F5770FEAF0DED556BB2F1B8
 ?rft.atitle=Commissioning+Tool+for+Special+Care+Dentistry+%5Bdatabase+on+the+Internet%5D+British+Society+for+Disability+and+Oral+Health+Available+at	0
 ?rft.spage=11&rft.aulast=Kolli&rft.atitle=Meow+Meow+%22+%28mephedrone%29+and+catatonia&rft.jtitle=Innov+Clin+Neurosci	0
 ?rft.issue=1&rft.spage=67&rft.aulast=Petros&rft.atitle=Othering+%22+in+South+Africa+The+Blame+Goes+On&rft.jtitle=Culture%2C+Health+and+Sexuality	0
-?rft.aulast=Wehr&rft.atitle=Jung+and+feminism	1	A78413823B69EFF8A2B551B39D2A68FC060288E4
-?rft.spage=161&rft.aulast=Reader&rft.atitle=Religion+and+politics+in+Japan	1	F4CF2564D82A161B1E457444F803EF7991890FE6
-?rft.spage=38&rft.aulast=Frey&rft.atitle=College+coaches%27+experiences+with+stress-%22+Problem+Solvers+%22+have+problems%2C+too.+Sport+Psychol	1	9DB69676F218B1FED2E4CCDC21E0D4C3E350FA53
-?rft.aulast=Efesoy&rft.atitle=Transitional+cell+carcinoma+of+the+urinary+bladder+with+skeletal+muscle+metastasis+a+case+report+and+review+of+the+literature	1	A2852D834572A0A431A7856F758B106337BE9634
-?rft.spage=10&rft.aulast=Koca	1	A2852D834572A0A431A7856F758B106337BE9634
+?rft.aulast=Wehr&rft.atitle=Jung+and+feminism	0
+?rft.spage=161&rft.aulast=Reader&rft.atitle=Religion+and+politics+in+Japan	0
+?rft.spage=38&rft.aulast=Frey&rft.atitle=College+coaches%27+experiences+with+stress-%22+Problem+Solvers+%22+have+problems%2C+too.+Sport+Psychol	0
+?rft.aulast=Efesoy&rft.atitle=Transitional+cell+carcinoma+of+the+urinary+bladder+with+skeletal+muscle+metastasis+a+case+report+and+review+of+the+literature	0
+?rft.spage=10&rft.aulast=Koca	0
 ?rft_id=info:pii/0168-583X(91)95215-Y	1	82266FE7A5A9E9B5152E7F5434A1FD2E557D4783
-?rft_id=info:pii/0168583X9195215Y	0
+?rft_id=info:pii/0168583X9195215Y	1	82266FE7A5A9E9B5152E7F5434A1FD2E557D4783
 ?rft.spage=439&rft.aulast=Reichert&rft.btitle=Handbook+of+Biomaterials+evaluation	0
 ?rft.spage=241&rft.aulast=Yamamoto&rft.jtitle=Biogenic+Amines	0
 ?rft.aulast=Palacas&rft.atitle=South+Florida+Basin++a+prime+example+of+carbonate+source+rocks+of+petroleum	0
-?rft.spage=78&rft.aulast=Lubin&rft.jtitle=Anal.+Chem	1	D7D682E1E41A37EA42EE755ACE4119A5676E3A1E
-?rft.spage=79&rft.aulast=Uno&rft.jtitle=Anal.+Chem	1	66CD6E8696D5E794C21D19EB2E8811B907D31A55
-?rft.spage=161&rft.aulast=Briggs&rft.jtitle=Phys.+Fluids	1	37CB1650E2A2B87398A5EFA8C64E3D0B6F94AFF3
-?rft.spage=921&rft.aulast=Star	1	1B55D7806DF9CE9172C9DE5CBA729490BA4E2541
-?rft.spage=591&rft.aulast=Heller	1	25A9DF6427F946338D57E081FCDA1717701D07B0
-?rft.spage=1626&rft.aulast=Peng	1	AC716E1719A4D9FF31811535B6879DB5D75B701E
+?rft.spage=78&rft.aulast=Lubin&rft.jtitle=Anal.+Chem	0
+?rft.spage=79&rft.aulast=Uno&rft.jtitle=Anal.+Chem	0
+?rft.spage=161&rft.aulast=Briggs&rft.jtitle=Phys.+Fluids	0
+?rft.spage=921&rft.aulast=Star	0
+?rft.spage=591&rft.aulast=Heller	0
+?rft.spage=1626&rft.aulast=Peng	0
 ?rft.issn=0021-9258&rft.volume=275&rft.issue=41&rft.spage=32281&rft.aulast=Dallabrida&rft.atitle=Expression+of+Antisense+to+Integrin+Subunit+%C2%A03Inhibits+Microvascular+Endothelial+Cell+Capillary+Tube%2FFormation+in+Fibrin&rft.jtitle=Journal+of+Biological+Chemistry	0
-?rft.issn=00032670&rft.volume=402&rft.issue=1-2&rft.spage=7&rft.aulast=Wang&rft.atitle=New+label%2Dfree+DNA+recognition+based+on+doping+nucleic-acid+probes+within+conducting+polymer+films&rft.jtitle=Analytica+Chimica+Acta	0
+?rft.issn=00032670&rft.volume=402&rft.issue=1-2&rft.spage=7&rft.aulast=Wang&rft.atitle=New+label%2Dfree+DNA+recognition+based+on+doping+nucleic-acid+probes+within+conducting+polymer+films&rft.jtitle=Analytica+Chimica+Acta	1	749EC1186B333CC7EB9284764C4A739ECDFD5976
 # ISSN formatting
-?rft.issn=0302-4598&rft.volume=48&rft.issue=2&rft.spage=477&rft.aulast=Wang&rft.atitle=Real+time+monitoring+of+enzymatic+cleavage+of+nucleic+acids+using+a+quartz+crystal+microbalance&rft.jtitle=Bioelectrochemistry+and+Bioenergetics	0
-?rft.issn=03024598&rft.volume=48&rft.issue=2&rft.spage=477&rft.aulast=Wang&rft.atitle=Real+time+monitoring+of+enzymatic+cleavage+of+nucleic+acids+using+a+quartz+crystal+microbalance&rft.jtitle=Bioelectrochemistry+and+Bioenergetics	0
+?rft.issn=0302-4598&rft.volume=48&rft.issue=2&rft.spage=477&rft.aulast=Wang&rft.atitle=Real+time+monitoring+of+enzymatic+cleavage+of+nucleic+acids+using+a+quartz+crystal+microbalance	1	DD56DB07D86247EAF7A9AB7A117F555357C20802
+?rft.issn=03024598&rft.volume=48&rft.issue=2&rft.spage=477&rft.aulast=Wang&rft.atitle=Real+time+monitoring+of+enzymatic+cleavage+of+nucleic+acids+using+a+quartz+crystal+microbalance	1	DD56DB07D86247EAF7A9AB7A117F555357C20802
