@@ -19,7 +19,12 @@ const pathKbart2gs = 'resources/xslt/Kbart2gs.xsl';
 const xsltEngine = 'xsltproc';
 
 // the list of kbart "collections" to be generated as Google XML holding, expressed with their kbart name
-const toBeGenerated = ['ELSEVIER_FRANCE_ISTEXJOURNALS', 'SPRINGER_FRANCE_ISTEXJOURNALS', 'WILEY_FRANCE_ISTEXJOURNALS'];
+const toBeGenerated = [
+  'ELSEVIER_FRANCE_ISTEXJOURNALS',
+  'SPRINGER_FRANCE_ISTEXJOURNALS',
+  'WILEY_FRANCE_ISTEXJOURNALS',
+  'SAGE_FRANCE_ISTEXJOURNALS'
+  ];
 
 // parameters for getting the description of one package from BACON REST service (in XML)
 var packageGet = {

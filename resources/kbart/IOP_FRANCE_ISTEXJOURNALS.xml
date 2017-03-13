@@ -653,10 +653,10 @@
     <element>
       <publication_title>Izvestiya: Mathematics</publication_title>
       <print_identifier>1064-5632</print_identifier>
-      <online_identifier/>
-      <date_first_issue_online>1995</date_first_issue_online>
-      <num_first_vol_online/>
-      <num_first_issue_online/>
+      <online_identifier>1468-4810</online_identifier>
+      <date_first_issue_online>1993</date_first_issue_online>
+      <num_first_vol_online>40</num_first_vol_online>
+      <num_first_issue_online>1</num_first_issue_online>
       <date_last_issue_online>2012</date_last_issue_online>
       <num_last_vol_online/>
       <num_last_issue_online/>
@@ -732,7 +732,7 @@
       <access_type>P</access_type>
     </element>
     <element>
-      <publication_title>Journal of Nuclear Energy, Part C: Plasma Physics, Accelerators, Thermonuclear Research</publication_title>
+      <publication_title>Journal of Nuclear Energy. Part C: Plasma Physics. Accelerators. Thermonuclear Research</publication_title>
       <print_identifier>0368-3281</print_identifier>
       <online_identifier/>
       <date_first_issue_online>1959</date_first_issue_online>
@@ -975,7 +975,7 @@
       <access_type>P</access_type>
     </element>
     <element>
-      <publication_title>Journal of optics. A, Pure and applied optics</publication_title>
+      <publication_title>Journal of optics. A. Pure and applied optics</publication_title>
       <print_identifier>1464-4258</print_identifier>
       <online_identifier>1741-3567</online_identifier>
       <date_first_issue_online>1999</date_first_issue_online>
@@ -1002,7 +1002,7 @@
       <access_type>P</access_type>
     </element>
     <element>
-      <publication_title>Journal of optics. B, Quantum and semiclassical optics</publication_title>
+      <publication_title>Journal of optics. B. Quantum and semiclassical optics</publication_title>
       <print_identifier>1464-4266</print_identifier>
       <online_identifier>1741-3575</online_identifier>
       <date_first_issue_online>1999</date_first_issue_online>
@@ -1083,7 +1083,7 @@
       <access_type>P</access_type>
     </element>
     <element>
-      <publication_title>Journal of physics. A, Mathematical and theoretical</publication_title>
+      <publication_title>Journal of physics. A. Mathematical and theoretical</publication_title>
       <print_identifier>1751-8113</print_identifier>
       <online_identifier>1751-8121</online_identifier>
       <date_first_issue_online>2007</date_first_issue_online>
@@ -1110,7 +1110,7 @@
       <access_type>P</access_type>
     </element>
     <element>
-      <publication_title>Journal of physics. A, Mathematical nuclear and general</publication_title>
+      <publication_title>Journal of physics. A. Mathematical nuclear and general</publication_title>
       <print_identifier>0301-0015</print_identifier>
       <online_identifier>2051-2163</online_identifier>
       <date_first_issue_online>1973</date_first_issue_online>
@@ -1137,7 +1137,7 @@
       <access_type>P</access_type>
     </element>
     <element>
-      <publication_title>Journal of physics. A, Proceedings of the Physical Society. General</publication_title>
+      <publication_title>Journal of physics. A. Proceedings of the Physical Society. General</publication_title>
       <print_identifier>0022-3689</print_identifier>
       <online_identifier>2051-2155</online_identifier>
       <date_first_issue_online>1968</date_first_issue_online>
@@ -1164,7 +1164,7 @@
       <access_type>P</access_type>
     </element>
     <element>
-      <publication_title>Journal of physics. A, mathematical and general</publication_title>
+      <publication_title>Journal of physics. A. mathematical and general</publication_title>
       <print_identifier>0305-4470</print_identifier>
       <online_identifier>1361-6447</online_identifier>
       <date_first_issue_online>1975</date_first_issue_online>
@@ -1176,60 +1176,6 @@
       <title_url>http://iopscience.iop.org/0305-4470</title_url>
       <first_author/>
       <title_id>0305-4470</title_id>
-      <embargo_info/>
-      <coverage_depth>fulltext</coverage_depth>
-      <notes/>
-      <publisher_name>Institute of Physics Publishing</publisher_name>
-      <publication_type>serial</publication_type>
-      <date_monograph_published_print/>
-      <date_monograph_published_online/>
-      <monograph_volume/>
-      <monograph_edition/>
-      <first_editor/>
-      <parent_publication_title_id/>
-      <preceding_publication_title_id/>
-      <access_type>P</access_type>
-    </element>
-    <element>
-      <publication_title>Journal of physics. B, Atomic molecular and optical physics</publication_title>
-      <print_identifier>0953-4075</print_identifier>
-      <online_identifier>1361-6455</online_identifier>
-      <date_first_issue_online>1988</date_first_issue_online>
-      <num_first_vol_online>21</num_first_vol_online>
-      <num_first_issue_online>1</num_first_issue_online>
-      <date_last_issue_online>2012</date_last_issue_online>
-      <num_last_vol_online/>
-      <num_last_issue_online/>
-      <title_url>http://iopscience.iop.org/0953-4075</title_url>
-      <first_author/>
-      <title_id>0953-4075</title_id>
-      <embargo_info/>
-      <coverage_depth>fulltext</coverage_depth>
-      <notes/>
-      <publisher_name>Institute of Physics Publishing</publisher_name>
-      <publication_type>serial</publication_type>
-      <date_monograph_published_print/>
-      <date_monograph_published_online/>
-      <monograph_volume/>
-      <monograph_edition/>
-      <first_editor/>
-      <parent_publication_title_id/>
-      <preceding_publication_title_id/>
-      <access_type>P</access_type>
-    </element>
-    <element>
-      <publication_title>Journal of physics. B, Proceedings of the Physical Society. Atomic and molecular physics</publication_title>
-      <print_identifier>0368-3508</print_identifier>
-      <online_identifier/>
-      <date_first_issue_online>1968</date_first_issue_online>
-      <num_first_vol_online/>
-      <num_first_issue_online/>
-      <date_last_issue_online>1969</date_last_issue_online>
-      <num_last_vol_online/>
-      <num_last_issue_online/>
-      <title_url>http://iopscience.iop.org/0022-3700</title_url>
-      <first_author/>
-      <title_id>0022-3700</title_id>
       <embargo_info/>
       <coverage_depth>fulltext</coverage_depth>
       <notes/>
@@ -1272,7 +1218,61 @@
       <access_type>P</access_type>
     </element>
     <element>
-      <publication_title>Journal of physics. C, Proceedings of the Physical Society. Solid state physics</publication_title>
+      <publication_title>Journal of physics. B. Atomic molecular and optical physics</publication_title>
+      <print_identifier>0953-4075</print_identifier>
+      <online_identifier>1361-6455</online_identifier>
+      <date_first_issue_online>1988</date_first_issue_online>
+      <num_first_vol_online>21</num_first_vol_online>
+      <num_first_issue_online>1</num_first_issue_online>
+      <date_last_issue_online>2012</date_last_issue_online>
+      <num_last_vol_online/>
+      <num_last_issue_online/>
+      <title_url>http://iopscience.iop.org/0953-4075</title_url>
+      <first_author/>
+      <title_id>0953-4075</title_id>
+      <embargo_info/>
+      <coverage_depth>fulltext</coverage_depth>
+      <notes/>
+      <publisher_name>Institute of Physics Publishing</publisher_name>
+      <publication_type>serial</publication_type>
+      <date_monograph_published_print/>
+      <date_monograph_published_online/>
+      <monograph_volume/>
+      <monograph_edition/>
+      <first_editor/>
+      <parent_publication_title_id/>
+      <preceding_publication_title_id/>
+      <access_type>P</access_type>
+    </element>
+    <element>
+      <publication_title>Journal of physics. B. Proceedings of the Physical Society. Atomic and molecular physics</publication_title>
+      <print_identifier>0368-3508</print_identifier>
+      <online_identifier/>
+      <date_first_issue_online>1968</date_first_issue_online>
+      <num_first_vol_online/>
+      <num_first_issue_online/>
+      <date_last_issue_online>1969</date_last_issue_online>
+      <num_last_vol_online/>
+      <num_last_issue_online/>
+      <title_url>http://iopscience.iop.org/0022-3700</title_url>
+      <first_author/>
+      <title_id>0022-3700</title_id>
+      <embargo_info/>
+      <coverage_depth>fulltext</coverage_depth>
+      <notes/>
+      <publisher_name>Institute of Physics Publishing</publisher_name>
+      <publication_type>serial</publication_type>
+      <date_monograph_published_print/>
+      <date_monograph_published_online/>
+      <monograph_volume/>
+      <monograph_edition/>
+      <first_editor/>
+      <parent_publication_title_id/>
+      <preceding_publication_title_id/>
+      <access_type>P</access_type>
+    </element>
+    <element>
+      <publication_title>Journal of physics. C. Proceedings of the Physical Society. Solid state physics</publication_title>
       <print_identifier>0368-3516</print_identifier>
       <online_identifier/>
       <date_first_issue_online>1968</date_first_issue_online>
@@ -1380,7 +1380,7 @@
       <access_type>P</access_type>
     </element>
     <element>
-      <publication_title>Journal of physics. D, Applied physics</publication_title>
+      <publication_title>Journal of physics. D. Applied physics</publication_title>
       <print_identifier>0022-3727</print_identifier>
       <online_identifier>1361-6463</online_identifier>
       <date_first_issue_online>1970</date_first_issue_online>
@@ -1407,7 +1407,7 @@
       <access_type>P</access_type>
     </element>
     <element>
-      <publication_title>Journal of physics. E, Journal of scientific instruments</publication_title>
+      <publication_title>Journal of physics. E. Journal of scientific instruments</publication_title>
       <print_identifier>0950-1290</print_identifier>
       <online_identifier>2051-5677</online_identifier>
       <date_first_issue_online>1968</date_first_issue_online>
@@ -1434,7 +1434,7 @@
       <access_type>P</access_type>
     </element>
     <element>
-      <publication_title>Journal of physics. E, Scientific instruments</publication_title>
+      <publication_title>Journal of physics. E. Scientific instruments</publication_title>
       <print_identifier>0022-3735</print_identifier>
       <online_identifier>2051-5685</online_identifier>
       <date_first_issue_online>1970</date_first_issue_online>
@@ -1461,7 +1461,7 @@
       <access_type>P</access_type>
     </element>
     <element>
-      <publication_title>Journal of physics. G, Nuclear and particle physics</publication_title>
+      <publication_title>Journal of physics. G. Nuclear and particle physics</publication_title>
       <print_identifier>0954-3899</print_identifier>
       <online_identifier>1361-6471</online_identifier>
       <date_first_issue_online>1989</date_first_issue_online>
@@ -2514,60 +2514,6 @@
       <access_type>P</access_type>
     </element>
     <element>
-      <publication_title>Russian Academy of Sciences. Izvestiya Mathematics</publication_title>
-      <print_identifier>1064-5632</print_identifier>
-      <online_identifier>1468-4810</online_identifier>
-      <date_first_issue_online>1993</date_first_issue_online>
-      <num_first_vol_online>40</num_first_vol_online>
-      <num_first_issue_online>1</num_first_issue_online>
-      <date_last_issue_online>1995</date_last_issue_online>
-      <num_last_vol_online/>
-      <num_last_issue_online/>
-      <title_url>http://iopscience.iop.org/1064-5632</title_url>
-      <first_author/>
-      <title_id>1064-5632</title_id>
-      <embargo_info/>
-      <coverage_depth>fulltext</coverage_depth>
-      <notes/>
-      <publisher_name>Institute of Physics Publishing</publisher_name>
-      <publication_type>serial</publication_type>
-      <date_monograph_published_print/>
-      <date_monograph_published_online/>
-      <monograph_volume/>
-      <monograph_edition/>
-      <first_editor/>
-      <parent_publication_title_id/>
-      <preceding_publication_title_id/>
-      <access_type>P</access_type>
-    </element>
-    <element>
-      <publication_title>Russian Academy of Sciences. Sbornik Mathematics</publication_title>
-      <print_identifier>1064-5616</print_identifier>
-      <online_identifier>1468-4802</online_identifier>
-      <date_first_issue_online>1993</date_first_issue_online>
-      <num_first_vol_online>75</num_first_vol_online>
-      <num_first_issue_online>1</num_first_issue_online>
-      <date_last_issue_online>1995</date_last_issue_online>
-      <num_last_vol_online/>
-      <num_last_issue_online/>
-      <title_url>http://iopscience.iop.org/1064-5616</title_url>
-      <first_author/>
-      <title_id>1064-5616</title_id>
-      <embargo_info/>
-      <coverage_depth>fulltext</coverage_depth>
-      <notes/>
-      <publisher_name>Institute of Physics Publishing</publisher_name>
-      <publication_type>serial</publication_type>
-      <date_monograph_published_print/>
-      <date_monograph_published_online/>
-      <monograph_volume/>
-      <monograph_edition/>
-      <first_editor/>
-      <parent_publication_title_id/>
-      <preceding_publication_title_id/>
-      <access_type>P</access_type>
-    </element>
-    <element>
       <publication_title>Russian chemical reviews</publication_title>
       <print_identifier>0036-021X</print_identifier>
       <online_identifier>1468-4837</online_identifier>
@@ -2624,10 +2570,10 @@
     <element>
       <publication_title>Sbornik: Mathematic</publication_title>
       <print_identifier>1064-5616</print_identifier>
-      <online_identifier/>
-      <date_first_issue_online>1996</date_first_issue_online>
-      <num_first_vol_online/>
-      <num_first_issue_online/>
+      <online_identifier>1468-4802</online_identifier>
+      <date_first_issue_online>1993</date_first_issue_online>
+      <num_first_vol_online>75</num_first_vol_online>
+      <num_first_issue_online>1</num_first_issue_online>
       <date_last_issue_online>2012</date_last_issue_online>
       <num_last_vol_online/>
       <num_last_issue_online/>
