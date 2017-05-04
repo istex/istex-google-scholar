@@ -23,16 +23,25 @@ const toBeGenerated = [
   'ELSEVIER_FRANCE_ISTEXJOURNALS',
   'SPRINGER_FRANCE_ISTEXJOURNALS',
   'WILEY_FRANCE_ISTEXJOURNALS',
-  'SAGE_FRANCE_ISTEXJOURNALS'
+  'SAGE_FRANCE_ISTEXJOURNALS',
+  'OUP_FRANCE_ISTEXJOURNALS',
+  'BMJ_FRANCE_ISTEXJOURNALS',
+  'IOP_FRANCE_ISTEXJOURNALS',
+  'NPG_FRANCE_ISTEXJOURNALS',
+  'DEGRUYTER_FRANCE_ISTEXJOURNALS',
+  'EMERALD_FRANCE_ISTEXJOURNALS',
+  'BRILL_FRANCE_ISTEXJOURNALS',
+  'RSC_FRANCE_ISTEXJOURNALS',
+  'RSC_FRANCE_ISTEXEBOOKS'
   ];
 
 // parameters for getting the description of one package from BACON REST service (in XML)
 var packageGet = {
-    host : 'bacon.abes.fr', 
+    host : 'bacon.abes.fr',
     port : 80,
-    path : '/package2kbart/', 
-	// path parameter must be completed with the name of the package (without date indication for the latest one) 
-    method : 'GET' 
+    path : '/package2kbart/',
+	// path parameter must be completed with the name of the package (without date indication for the latest one)
+    method : 'GET'
 };
 
 function generateGoogleScholarFiles(gsFilesPath, kbartPath, outDir) {
