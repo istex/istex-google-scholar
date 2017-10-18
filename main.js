@@ -2,7 +2,7 @@ const fs = require('fs');
 const spawnSync = require('child_process').spawnSync;
 const JSSelect = require('js-select');
 const requestModule = require('request');
-const proxyOpts = (process.env['http_proxy']) ? {proxy:process.env['http_proxy'],timeout:10000} : {timeout:10000};
+const proxyOpts = (process.env['http_proxy']) ? {proxy:process.env['http_proxy'],timeout:20000} : {timeout:20000};
 const request = requestModule.defaults(proxyOpts);
 const each = require('async/each');
 const path = require('path');
@@ -32,7 +32,8 @@ const toBeGenerated = [
   'EMERALD_FRANCE_ISTEXJOURNALS',
   'BRILL_FRANCE_ISTEXJOURNALS',
   'RSC_FRANCE_ISTEXJOURNALS',
-  'RSC_FRANCE_ISTEXEBOOKS'
+  'RSC_FRANCE_ISTEXEBOOKS',
+  'CUP_FRANCE_ISTEXJOURNALS'
   ];
 
 // parameters for getting the description of one package from BACON REST service (in XML)
