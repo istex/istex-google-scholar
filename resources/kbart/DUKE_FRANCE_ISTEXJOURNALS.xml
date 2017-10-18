@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bacon><query>
+  <package>DUKE_FRANCE_ISTEXJOURNALS</package>
+  <kbart>
+    <element>
+      <publication_title>Duke Mathematical Journal</publication_title>
+      <print_identifier>0012-7094</print_identifier>
+      <online_identifier>1547-7398</online_identifier>
+      <date_first_issue_online>1935</date_first_issue_online>
+      <num_first_vol_online>1</num_first_vol_online>
+      <num_first_issue_online>1</num_first_issue_online>
+      <date_last_issue_online>2012</date_last_issue_online>
+      <num_last_vol_online>161</num_last_vol_online>
+      <num_last_issue_online>15</num_last_issue_online>
+      <title_url>http://projecteuclid.org/all/euclid.dmj</title_url>
+      <first_author/>
+      <title_id>dmj</title_id>
+      <embargo_info/>
+      <coverage_depth>fulltext</coverage_depth>
+      <notes/>
+      <publisher_name>Duke University Press</publisher_name>
+      <publication_type>serial</publication_type>
+      <date_monograph_published_print/>
+      <date_monograph_published_online/>
+      <monograph_volume/>
+      <monograph_edition/>
+      <first_editor/>
+      <parent_publication_title_id/>
+      <preceding_publication_title_id/>
+      <access_type>P
+</access_type>
+    </element>
+  </kbart>
+</query>
+</bacon>
