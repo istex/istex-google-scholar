@@ -5619,18 +5619,6 @@
   </item>
   <item type="electronic">
     <title>Forstwissenschaftliches Centralblatt</title>
-    <issn>0015-8003</issn>
-    <coverage>
-      <from>
-        <year>1948</year>
-      </from>
-      <to>
-        <year>1996</year>
-      </to>
-    </coverage>
-  </item>
-  <item type="electronic">
-    <title>Forstwissenschaftliches Centralblatt</title>
     <issn>1868-9167</issn>
     <coverage>
       <from>
@@ -5638,6 +5626,18 @@
       </from>
       <to>
         <year>1943</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Forstwissenschaftliches Centralblatt</title>
+    <issn>0015-8003</issn>
+    <coverage>
+      <from>
+        <year>1948</year>
+      </from>
+      <to>
+        <year>1996</year>
       </to>
     </coverage>
   </item>
