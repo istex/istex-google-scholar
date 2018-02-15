@@ -2,7 +2,7 @@ const fs = require('fs');
 const spawnSync = require('child_process').spawnSync;
 const JSSelect = require('js-select');
 const requestModule = require('request');
-const proxyOpts = (process.env['http_proxy']) ? {proxy:process.env['http_proxy'],timeout:20000} : {timeout:20000};
+const proxyOpts = (process.env['http_proxy']) ? {proxy:process.env['http_proxy'],timeout:60000} : {timeout:60000};
 const request = requestModule.defaults(proxyOpts);
 const each = require('async/each');
 const path = require('path');
@@ -140,6 +140,11 @@ function addISTEXPackage(package_id, istexPackages) {
 
 
 function updateISTEXKbartPackage(package_id, updateCallback) {
+  //pas besoin du ALLTITLES qui pèse >52Mo
+  if (package_id.indexOf('ALLTITLES') >0 ) {
+    return updateCallback();
+  }
+
   var packageUrl = "https://bacon.abes.fr/package2kbart/"+package_id+".xml"
   console.log("packageUrl = ",packageUrl)
   var response = request.get(packageUrl, function(error, response, body) {
