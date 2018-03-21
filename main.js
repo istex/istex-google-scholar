@@ -34,7 +34,8 @@ const toBeGenerated = [
   'RSC_FRANCE_ISTEXJOURNALS',
   'RSC_FRANCE_ISTEXEBOOKS',
   'CUP_FRANCE_ISTEXJOURNALS',
-  'EDPSCIENCES_FRANCE_ISTEXJOURNALS'
+  'EDPSCIENCES_FRANCE_ISTEXJOURNALS',
+  'GSL_FRANCE_ISTEXEBOOKS'
   ];
 
 // parameters for getting the description of one package from BACON REST service (in XML)
