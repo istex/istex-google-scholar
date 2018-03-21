@@ -95,6 +95,9 @@ function generateGoogleScholarFiles(gsFilesPath, kbartPath, outDir) {
         
         try {
           var spawnResult = spawnSync(xsltEngine, xsltArgs);
+          if (!spawnResult || spawnResult.status != 0) {
+            console.error(JSON.stringify(spawnResult.error), JSON.stringify(spawnResult.stderr));
+          }
           console.log("File institutional_holdings_"+collection+".xml saved under results/");
         } catch (xsltException) {
           console.error(xsltException);
