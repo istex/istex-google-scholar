@@ -58,17 +58,17 @@
     Base URL: http://frame.ac.lt/frame?top=logo&url=http://lib.bbc.ac.lt/bbc_link%3Ffmt%3Dfull%26
         Link: http://frame.ac.lt/frame?top=logo&url=http://lib.bbc.ac.lt/bbc_link%3Ffmt%3Dfull%26sid%3Dgoogle%26title%3DThe%2BJournal
    -->
-  <openurl_base>https://api.istex.fr/document/openurl?auth=ip,fede&amp;</openurl_base>
+  <openurl_base>https://view.istex.fr/document/openurl?auth=ip,fede&amp;</openurl_base>
 
   <!-- Linking options supported in your link resolver. -->
   <!-- (at least one is REQUIRED; please check that they actually work) -->
-  <!-- https://api.istex.fr/document/openurl?sid=google&id=pmid:11130711 -->
+  <!-- https://view.istex.fr/document/openurl?sid=google&id=pmid:11130711 -->
   <openurl_option>pmid</openurl_option>
-  <!-- https://api.istex.fr/document/openurl?sid=google&id=doi:10.1111/1468-0270.00266 -->
+  <!-- https://view.istex.fr/document/openurl?sid=google&id=doi:10.1111/1468-0270.00266 -->
   <openurl_option>doi</openurl_option>
-  <!-- https://api.istex.fr/document/openurl?sid=google&title=Modern+Operating+Systems&genre=book -->
+  <!-- https://view.istex.fr/document/openurl?sid=google&title=Modern+Operating+Systems&genre=book -->
   <openurl_option>book-title</openurl_option>
-  <!-- https://api.istex.fr/document/openurl?sid=google&title=Nature&volume=227&issue=5259&spage=680 -->
+  <!-- https://view.istex.fr/document/openurl?sid=google&title=Nature&volume=227&issue=5259&spage=680 -->
   <openurl_option>journal-title</openurl_option>
 
   <!-- The IP address ranges for your patrons, e.g., on-campus students. -->
