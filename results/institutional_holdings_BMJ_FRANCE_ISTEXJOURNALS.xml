@@ -1,3 +1,950 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE institutional_holdings PUBLIC "-//GOOGLE//Institutional Holdings 1.0//EN" "http://scholar.google.com/scholar/institutional_holdings.dtd">
-<institutional_holdings/>
+<institutional_holdings>
+  <item type="electronic">
+    <title>Acupuncture in medicine</title>
+    <issn>0964-5284</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Annals of the rheumatic diseases</title>
+    <issn>0003-4967</issn>
+    <coverage>
+      <from>
+        <year>1939</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Archives of disease in childhood</title>
+    <issn>0003-9888</issn>
+    <coverage>
+      <from>
+        <year>1926</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Archives of disease in childhood. Education and practice edition</title>
+    <issn>1743-0585</issn>
+    <coverage>
+      <from>
+        <year>2004</year>
+        <volume>89</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Archives of disease in childhood. Fetal and neonatal edition</title>
+    <issn>1359-2998</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>70</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Archives of emergency medicine</title>
+    <issn>0264-4924</issn>
+    <coverage>
+      <from>
+        <year>1984</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1993</year>
+        <volume>10</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Association medical journal</title>
+    <issn>2041-9996</issn>
+    <coverage>
+      <from>
+        <year>1853</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1856</year>
+        <volume>4</volume>
+        <issue>205</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>BMJ (BMJ.com)</title>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>297</volume>
+        <issue>6640</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>BMJ (Clinical research ed.)</title>
+    <issn>0959-8138</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>BMJ case reports</title>
+    <coverage>
+      <from>
+        <year>2008</year>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>BMJ quality &amp; safety (Print)</title>
+    <issn>2044-5415</issn>
+    <coverage>
+      <from>
+        <year>2011</year>
+        <volume>20</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2014</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>BMJ supportive &amp; palliative care</title>
+    <issn>2045-435X</issn>
+    <coverage>
+      <from>
+        <year>2011</year>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British heart journal</title>
+    <issn>0007-0769</issn>
+    <coverage>
+      <from>
+        <year>1939</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1995</year>
+        <volume>74</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal of industrial medicine</title>
+    <issn>0007-1072</issn>
+    <coverage>
+      <from>
+        <year>1944</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1993</year>
+        <volume>50</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal of ophthalmology</title>
+    <issn>0007-1161</issn>
+    <coverage>
+      <from>
+        <year>1917</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal of preventive &amp; social medicine</title>
+    <issn>0007-1242</issn>
+    <coverage>
+      <from>
+        <year>1953</year>
+        <volume>7</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1977</year>
+        <volume>31</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal of social medicine</title>
+    <issn>0366-0842</issn>
+    <coverage>
+      <from>
+        <year>1947</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1952</year>
+        <volume>6</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal of sports medicine</title>
+    <issn>0306-3674</issn>
+    <coverage>
+      <from>
+        <year>1970</year>
+        <volume>4</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British medical journal</title>
+    <issn>0007-1447</issn>
+    <coverage>
+      <from>
+        <year>1857</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1980</year>
+        <volume>281</volume>
+        <issue>6256</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British medical journal (Clinical research ed.)</title>
+    <issn>0267-0623</issn>
+    <coverage>
+      <from>
+        <year>1981</year>
+        <volume>282</volume>
+        <issue>6257</issue>
+      </from>
+      <to>
+        <year>1988</year>
+        <volume>296</volume>
+        <issue>6639</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Bulletin - British Association of Sport and Medicine</title>
+    <issn>0306-3690</issn>
+    <coverage>
+      <from>
+        <year>1964</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1968</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>California and western medicine</title>
+    <issn>0093-4038</issn>
+    <coverage>
+      <from>
+        <year>1924</year>
+        <volume>22</volume>
+        <issue>3</issue>
+      </from>
+      <to>
+        <year>1946</year>
+        <volume>64</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>California medicine</title>
+    <issn>0008-1264</issn>
+    <coverage>
+      <from>
+        <year>1946</year>
+        <volume>65</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1973</year>
+        <volume>119</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>California state journal of medicine</title>
+    <issn>0093-402X</issn>
+    <coverage>
+      <from>
+        <year>1902</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1924</year>
+        <volume>22</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Drug and therapeutics bulletin</title>
+    <issn>0012-6543</issn>
+    <coverage>
+      <from>
+        <year>1963</year>
+        <volume>2</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Emergency medicine journal (Print)</title>
+    <issn>1472-0205</issn>
+    <coverage>
+      <from>
+        <year>2001</year>
+        <volume>18</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Epidemiology and community health</title>
+    <issn>0142-467X</issn>
+    <coverage>
+      <from>
+        <year>1979</year>
+        <volume>33</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1979</year>
+        <volume>33</volume>
+        <issue>1</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Evidence-based medicine (English ed.)</title>
+    <issn>1356-5524</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Evidence-based mental health</title>
+    <issn>1362-0347</issn>
+    <coverage>
+      <from>
+        <year>1998</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Evidence-based nursing</title>
+    <issn>1367-6539</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Frontline gastroenterology</title>
+    <issn>2041-4137</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Genitourinary medicine</title>
+    <issn>0266-4348</issn>
+    <coverage>
+      <from>
+        <year>1985</year>
+        <volume>61</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1997</year>
+        <volume>73</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Gut</title>
+    <issn>0017-5749</issn>
+    <coverage>
+      <from>
+        <year>1960</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Heart (London. 1996)</title>
+    <issn>1355-6037</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>75</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Injury prevention</title>
+    <issn>1353-8047</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>JCP. Clinical molecular pathology</title>
+    <issn>1355-2910</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>48</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1996</year>
+        <volume>49</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of Clinical Pathology</title>
+    <issn>0021-9746</issn>
+    <coverage>
+      <from>
+        <year>1947</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of accident &amp; emergency medicine</title>
+    <issn>1351-0622</issn>
+    <coverage>
+      <from>
+        <year>1994</year>
+        <volume>11</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2000</year>
+        <volume>17</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of epidemiology and community health (1978)</title>
+    <issn>0141-7681</issn>
+    <coverage>
+      <from>
+        <year>1978</year>
+        <volume>32</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1978</year>
+        <volume>32</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of epidemiology and community health (1979)</title>
+    <issn>0143-005X</issn>
+    <coverage>
+      <from>
+        <year>1979</year>
+        <volume>33</volume>
+        <issue>2</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of medical ethics</title>
+    <issn>0306-6800</issn>
+    <coverage>
+      <from>
+        <year>1975</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of medical genetics (Print)</title>
+    <issn>0022-2593</issn>
+    <coverage>
+      <from>
+        <year>1964</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of neurointerventional surgery</title>
+    <issn>1759-8478</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of neurology and psychiatry</title>
+    <issn>0368-329X</issn>
+    <coverage>
+      <from>
+        <year>1938</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1944</year>
+        <volume>7</volume>
+        <issue>1/2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of neurology and psychopathology</title>
+    <issn>0266-8637</issn>
+    <coverage>
+      <from>
+        <year>1920</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1937</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of neurology, neurosurgery and psychiatry</title>
+    <issn>0022-3050</issn>
+    <coverage>
+      <from>
+        <year>1944</year>
+        <volume>7</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>London journal of medicine</title>
+    <issn>2041-9988</issn>
+    <coverage>
+      <from>
+        <year>1849</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1852</year>
+        <volume>4</volume>
+        <issue>46</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>MP. Molecular pathology</title>
+    <issn>1366-8714</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>50</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2003</year>
+        <volume>56</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Medical humanities</title>
+    <issn>1468-215X</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>26</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Medical letter on drugs &amp; therapeutics. (British edition)</title>
+    <issn>0543-2766</issn>
+    <coverage>
+      <from>
+        <year>1962</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1963</year>
+        <volume>1</volume>
+        <issue>18</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Neurology in practice</title>
+    <issn>1473-7086</issn>
+    <coverage>
+      <from>
+        <year>2001</year>
+        <volume>70</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2006</year>
+        <volume>76</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Occupational and environmental medicine (London)</title>
+    <issn>1351-0711</issn>
+    <coverage>
+      <from>
+        <year>1994</year>
+        <volume>51</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Postgraduate medical journal</title>
+    <issn>0032-5473</issn>
+    <coverage>
+      <from>
+        <year>1925</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Practical neurology</title>
+    <issn>1474-7758</issn>
+    <coverage>
+      <from>
+        <year>2001</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Provincial Medical Journal and Retrospect of the Medical Sciences</title>
+    <issn>2041-9961</issn>
+    <coverage>
+      <from>
+        <year>1842</year>
+        <volume>4</volume>
+        <issue>80</issue>
+      </from>
+      <to>
+        <year>1844</year>
+        <volume>7</volume>
+        <issue>182</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Provincial medical &amp; surgical journal</title>
+    <issn>2041-997X</issn>
+    <coverage>
+      <from>
+        <year>1844</year>
+        <volume>8</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1852</year>
+        <volume>16</volume>
+        <issue>26</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Provincial medical &amp; surgical journal</title>
+    <issn>2041-9953</issn>
+    <coverage>
+      <from>
+        <year>1840</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1842</year>
+        <volume>3</volume>
+        <issue>79</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Quality &amp; safety in health care (Print)</title>
+    <issn>1475-3898</issn>
+    <coverage>
+      <from>
+        <year>2002</year>
+        <volume>11</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>19</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Quality in health care</title>
+    <issn>0963-8172</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2001</year>
+        <volume>10</volume>
+        <issue>1</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Sexually transmitted infections</title>
+    <issn>1368-4973</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>74</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2014</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The British journal of venereal diseases</title>
+    <issn>0007-134X</issn>
+    <coverage>
+      <from>
+        <year>1925</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1984</year>
+        <volume>60</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Thorax</title>
+    <issn>0040-6376</issn>
+    <coverage>
+      <from>
+        <year>1946</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Tobacco control</title>
+    <issn>0964-4563</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2013</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Western journal of medicine</title>
+    <issn>0093-0415</issn>
+    <coverage>
+      <from>
+        <year>1974</year>
+        <volume>120</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2002</year>
+        <volume>176</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+</institutional_holdings>

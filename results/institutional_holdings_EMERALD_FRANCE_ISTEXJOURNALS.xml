@@ -1,3 +1,5793 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE institutional_holdings PUBLIC "-//GOOGLE//Institutional Holdings 1.0//EN" "http://scholar.google.com/scholar/institutional_holdings.dtd">
-<institutional_holdings/>
+<institutional_holdings>
+  <item type="electronic">
+    <title>Academic and library computing</title>
+    <issn>1055-4769</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+        <volume>8</volume>
+        <issue>4</issue>
+      </from>
+      <to>
+        <year>1992</year>
+        <volume>9</volume>
+        <issue>10</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Accounting auditing &amp; accountability</title>
+    <issn>0951-3574</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1988</year>
+        <volume>1</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Accounting auditing &amp; accountability journal</title>
+    <issn>1368-0668</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>2</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>23</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Accounting research journal</title>
+    <issn>1030-9616</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>18</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>23</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Advances in dual diagnosis</title>
+    <issn>1757-0972</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Advances in mental health and intellectual disabilities</title>
+    <issn>2044-1282</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>4</volume>
+        <issue>2</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>4</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Advances in mental health and learning disabilities</title>
+    <issn>1753-0180</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>4</volume>
+        <issue>1</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>African journal of economic and management studies</title>
+    <issn>2040-0705</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Agricultural finance review</title>
+    <issn>0002-1466</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>60</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>60</volume>
+        <issue>1</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Aircraft Engineering</title>
+    <issn>0002-2667</issn>
+    <coverage>
+      <from>
+        <year>1929</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1986</year>
+        <volume>58</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Aircraft engineering and aerospace technology</title>
+    <issn>1748-8842</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>58</volume>
+        <issue>4</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>82</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>American journal of business</title>
+    <issn>1935-519X</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>22</volume>
+        <issue>2</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>25</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>American journal of police</title>
+    <issn>0735-8547</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>14</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1996</year>
+        <volume>15</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Anti-corrosion methods and materials</title>
+    <issn>0003-5599</issn>
+    <coverage>
+      <from>
+        <year>1966</year>
+        <volume>13</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>57</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Antidote (Winchester)</title>
+    <issn>1363-8483</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2000</year>
+        <volume>5</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Asia Pacific International Journal of Marketing</title>
+    <issn>0954-7517</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1993</year>
+        <volume>5</volume>
+        <issue>1</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Asia Pacific journal of marketing and logistics</title>
+    <issn>1355-5855</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>5</volume>
+        <issue>2</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>22</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Asia-Pacific journal of business administration</title>
+    <issn>1757-4323</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Asian Journal of Quality</title>
+    <issn>1598-2688</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>11</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Asian libraries</title>
+    <issn>1017-6748</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>6</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1999</year>
+        <volume>8</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Asian review of accounting</title>
+    <issn>1321-7348</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>18</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Aslib proceedings</title>
+    <issn>0001-253X</issn>
+    <coverage>
+      <from>
+        <year>1949</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>65</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Assembly automation</title>
+    <issn>0144-5154</issn>
+    <coverage>
+      <from>
+        <year>1980</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>30</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>BLL review</title>
+    <issn>0305-6503</issn>
+    <coverage>
+      <from>
+        <year>1973</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1977</year>
+        <volume>5</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Balance sheet (London)</title>
+    <issn>0965-7967</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>8</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2004</year>
+        <volume>12</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Baltic journal of management</title>
+    <issn>1746-5265</issn>
+    <coverage>
+      <from>
+        <year>2006</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>5</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Benchmarking (Bradford)</title>
+    <issn>1463-5771</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>6</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>17</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Benchmarking for quality management &amp; technology</title>
+    <issn>1351-3036</issn>
+    <coverage>
+      <from>
+        <year>1994</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1998</year>
+        <volume>5</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British food journal (1966)</title>
+    <issn>0007-070X</issn>
+    <coverage>
+      <from>
+        <year>1966</year>
+        <volume>68</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>112</volume>
+        <issue>11</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British food journal and analytical review</title>
+    <issn>0951-9378</issn>
+    <coverage>
+      <from>
+        <year>1899</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1899</year>
+        <volume>1</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British food journal and hygienic review</title>
+    <coverage>
+      <from>
+        <year>1900</year>
+        <volume>2</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1965</year>
+        <volume>67</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal of clinical governance</title>
+    <issn>1466-4100</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>4</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2002</year>
+        <volume>7</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal of forensic practice</title>
+    <issn>1463-6646</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>12</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal of marketing</title>
+    <issn>0007-1099</issn>
+    <coverage>
+      <from>
+        <year>1967</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1971</year>
+        <volume>4</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Business process management journal</title>
+    <issn>1463-7154</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>3</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>16</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Business process re-engineering &amp; management journal</title>
+    <issn>1355-2503</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1996</year>
+        <volume>2</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Business strategy series</title>
+    <issn>1751-5637</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>8</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>11</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>CCM &amp; P . Community care management &amp; planning</title>
+    <issn>0968-9249</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>4</volume>
+        <issue>3</issue>
+      </from>
+      <to>
+        <year>1997</year>
+        <volume>5</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Campus-wide information systems</title>
+    <issn>1065-0741</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>10</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>27</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Career development international</title>
+    <issn>1362-0436</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>15</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>China agricultural economic review</title>
+    <issn>1756-137X</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Chinese management studies</title>
+    <issn>1750-614X</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>4</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Circuit world</title>
+    <issn>0305-6120</issn>
+    <coverage>
+      <from>
+        <year>1974</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>36</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Clinical governance</title>
+    <issn>1477-7274</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>8</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>15</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Clinical performance and quality health care</title>
+    <issn>1063-0279</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>7</volume>
+        <issue>3</issue>
+      </from>
+      <to>
+        <year>2000</year>
+        <volume>8</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Collection building</title>
+    <issn>0160-4953</issn>
+    <coverage>
+      <from>
+        <year>1978</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>29</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Community safety journal</title>
+    <issn>1477-5883</issn>
+    <coverage>
+      <from>
+        <year>2002</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2008</year>
+        <volume>7</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Compel</title>
+    <issn>0332-1649</issn>
+    <coverage>
+      <from>
+        <year>1982</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>29</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Competitiveness review</title>
+    <issn>1059-5422</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>20</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Construction innovation (London)</title>
+    <issn>1471-4175</issn>
+    <coverage>
+      <from>
+        <year>2001</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>10</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Corporate communications</title>
+    <issn>1356-3289</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>15</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Corporate governance (Bradford)</title>
+    <issn>1472-0701</issn>
+    <coverage>
+      <from>
+        <year>2001</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>10</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Corrosion Technology</title>
+    <issn>0589-8404</issn>
+    <coverage>
+      <from>
+        <year>1954</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1965</year>
+        <volume>12</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Critical perspectives on international business</title>
+    <issn>1742-2043</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>6</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Cross cultural management</title>
+    <issn>1352-7606</issn>
+    <coverage>
+      <from>
+        <year>1994</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>17</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Development and learning in organizations</title>
+    <issn>1477-7282</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>17</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>24</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Direct marketing</title>
+    <issn>1750-5933</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2009</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Disaster prevention and management</title>
+    <issn>0965-3562</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>19</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Drug and alcohol professional</title>
+    <issn>1475-0384</issn>
+    <coverage>
+      <from>
+        <year>2001</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2003</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Drugs and alcohol today</title>
+    <issn>1745-9265</issn>
+    <coverage>
+      <from>
+        <year>2004</year>
+        <volume>4</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>10</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Education + training (London)</title>
+    <issn>0040-0912</issn>
+    <coverage>
+      <from>
+        <year>1959</year>
+        <volume>12</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>52</volume>
+        <issue>9</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Education, business and society</title>
+    <issn>1753-7983</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Electronic library</title>
+    <issn>0264-0473</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>28</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Electronic networking</title>
+    <issn>1051-4805</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1992</year>
+        <volume>2</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Electronic resources review</title>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2000</year>
+        <volume>4</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Employee counselling today</title>
+    <issn>0955-8217</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1996</year>
+        <volume>8</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Employee relations</title>
+    <issn>0142-5455</issn>
+    <coverage>
+      <from>
+        <year>1979</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>32</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Empowerment in organizations</title>
+    <issn>0968-4891</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1998</year>
+        <volume>6</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Engineering computations</title>
+    <issn>0264-4401</issn>
+    <coverage>
+      <from>
+        <year>1984</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>27</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Engineering construction and architectural management</title>
+    <issn>0969-9988</issn>
+    <coverage>
+      <from>
+        <year>1994</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>17</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Environmental management and health</title>
+    <issn>0956-6163</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2002</year>
+        <volume>13</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Equal opportunities international</title>
+    <issn>0261-0159</issn>
+    <coverage>
+      <from>
+        <year>1981</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2009</year>
+        <volume>28</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Equality, diversity and inclusion</title>
+    <issn>2040-7149</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>29</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>29</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Ethnicity and inequalities in health and social care</title>
+    <issn>1757-0980</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>EuroMed journal of business</title>
+    <issn>1450-2194</issn>
+    <coverage>
+      <from>
+        <year>2006</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>5</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>European business review</title>
+    <issn>0955-534X</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>89</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>99</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>European journal of innovation management</title>
+    <issn>1460-1060</issn>
+    <coverage>
+      <from>
+        <year>1998</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>13</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>European journal of marketing</title>
+    <issn>0309-0566</issn>
+    <coverage>
+      <from>
+        <year>1971</year>
+        <volume>5</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>44</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Executive development</title>
+    <issn>0953-3230</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>2</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1995</year>
+        <volume>8</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Facilities</title>
+    <issn>0263-2772</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>28</volume>
+        <issue>10</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Foresight (Cambridge. Print)</title>
+    <issn>1463-6689</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>12</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Gender in management</title>
+    <issn>1754-2413</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>23</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>25</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Handbook of business strategy</title>
+    <issn>1077-5730</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2006</year>
+        <volume>7</volume>
+        <issue>1</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Health education (London)</title>
+    <issn>0965-4283</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>92</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>110</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Health manpower management</title>
+    <issn>0955-2065</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>18</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1998</year>
+        <volume>24</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>History of education review</title>
+    <issn>0819-8691</issn>
+    <coverage>
+      <from>
+        <year>2004</year>
+        <volume>33</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>39</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Housing, care and support</title>
+    <issn>1460-8790</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>13</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Human resource management international digest</title>
+    <issn>0967-0734</issn>
+    <coverage>
+      <from>
+        <year>2002</year>
+        <volume>10</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>18</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Humanomics</title>
+    <issn>0828-8666</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>5</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>26</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Hybrid circuits</title>
+    <issn>0265-3028</issn>
+    <coverage>
+      <from>
+        <year>1982</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1994</year>
+        <volume>11</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Indian growth and development review</title>
+    <issn>1753-8254</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>3</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Industrial and commercial training</title>
+    <issn>0019-7858</issn>
+    <coverage>
+      <from>
+        <year>1969</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>42</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Industrial lubrication and tribology</title>
+    <issn>0036-8792</issn>
+    <coverage>
+      <from>
+        <year>1967</year>
+        <volume>19</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>62</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Industrial management (London)</title>
+    <issn>0007-6929</issn>
+    <coverage>
+      <from>
+        <year>1970</year>
+        <volume>70</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1980</year>
+        <volume>80</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Industrial management + data systems</title>
+    <issn>0263-5577</issn>
+    <coverage>
+      <from>
+        <year>1980</year>
+        <volume>80</volume>
+        <issue>9</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>110</volume>
+        <issue>9</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Industrial robot</title>
+    <issn>0143-991X</issn>
+    <coverage>
+      <from>
+        <year>1973</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>38</volume>
+        <issue>1</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Info (Cambridge. Print)</title>
+    <issn>1463-6697</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>12</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Information management &amp; computer security</title>
+    <issn>0968-5227</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>18</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Information technology &amp; people (Bradford)</title>
+    <issn>0959-3845</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>6</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>23</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Integrated manufacturing systems</title>
+    <issn>0957-6061</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2003</year>
+        <volume>14</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Interactive technology and smart education</title>
+    <issn>1741-5659</issn>
+    <coverage>
+      <from>
+        <year>2004</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>7</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Interlending &amp; document supply</title>
+    <issn>0264-1615</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+        <volume>11</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>38</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Interlending review</title>
+    <issn>0140-2773</issn>
+    <coverage>
+      <from>
+        <year>1978</year>
+        <volume>6</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1982</year>
+        <volume>10</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International Journal of Climate Change Strategies and Management</title>
+    <issn>1756-8692</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International Journal of Lean Six Sigma</title>
+    <issn>2040-4166</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of Islamic and Middle Eastern finance and management</title>
+    <issn>1753-8394</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of Web information systems</title>
+    <issn>1744-0084</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>6</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of accounting and information management</title>
+    <issn>1834-7649</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>15</volume>
+        <issue>2</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>18</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of advertising &amp; marketing to children</title>
+    <issn>1464-6676</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2001</year>
+        <volume>3</volume>
+        <issue>1</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of agile management systems</title>
+    <issn>1465-4652</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2000</year>
+        <volume>2</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of bank marketing</title>
+    <issn>0265-2323</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>28</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of career management</title>
+    <issn>0955-6214</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>2</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1995</year>
+        <volume>7</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of clothing science and technology</title>
+    <issn>0955-6222</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>22</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of commerce and management</title>
+    <issn>1056-9219</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>20</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of contemporary hospitality management</title>
+    <issn>0959-6119</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>2</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>22</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of culture, tourism and hospitality research</title>
+    <issn>1750-6182</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>4</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of development issues</title>
+    <issn>1446-8956</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>2</volume>
+        <issue>2</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>9</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of disaster resilience in the built environment</title>
+    <issn>1759-5908</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of educational management</title>
+    <issn>0951-354X</issn>
+    <coverage>
+      <from>
+        <year>1987</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>24</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of emerging markets</title>
+    <issn>1746-8809</issn>
+    <coverage>
+      <from>
+        <year>2006</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>5</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of energy sector management</title>
+    <issn>1750-6220</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>4</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of entrepreneurial behaviour &amp; research</title>
+    <issn>1355-2554</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>16</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of event and festival management</title>
+    <issn>1758-2954</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of gender and entrepreneurship</title>
+    <issn>1756-6266</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of health care quality assurance</title>
+    <issn>0952-6862</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>23</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of health care quality assurance incorporating leadership in health services</title>
+    <issn>1366-0756</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>10</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2006</year>
+        <volume>19</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of housing markets and analysis</title>
+    <issn>1753-8270</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of law and management.</title>
+    <issn>1754-243X</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>50</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>52</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of law in the built environment</title>
+    <issn>1756-1450</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of logistics management</title>
+    <issn>0957-4093</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>21</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of managerial finance</title>
+    <issn>1743-9132</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>6</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of managing projects in business</title>
+    <issn>1753-8378</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of manpower</title>
+    <issn>0143-7720</issn>
+    <coverage>
+      <from>
+        <year>1980</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>31</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of migration, health and social care</title>
+    <issn>1747-9894</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>6</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of numerical methods for heat &amp; fluid flow</title>
+    <issn>0961-5539</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>20</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of operations &amp; production management</title>
+    <issn>0144-3577</issn>
+    <coverage>
+      <from>
+        <year>1980</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>30</volume>
+        <issue>9</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of organizational analysis</title>
+    <issn>1055-3185</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2003</year>
+        <volume>11</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of organizational analysis (2005)</title>
+    <issn>1934-8835</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>13</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>18</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of pervasive computing and communications</title>
+    <issn>1742-7371</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>6</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of pharmaceutical and healthcare marketing</title>
+    <issn>1750-6123</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>4</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of physical distribution</title>
+    <issn>0020-7527</issn>
+    <coverage>
+      <from>
+        <year>1971</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1977</year>
+        <volume>8</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of physical distribution &amp; logistics management</title>
+    <issn>0960-0035</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>20</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>40</volume>
+        <issue>10</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of physical distribution &amp; materials management</title>
+    <issn>0269-8218</issn>
+    <coverage>
+      <from>
+        <year>1977</year>
+        <volume>8</volume>
+        <issue>4</issue>
+      </from>
+      <to>
+        <year>1989</year>
+        <volume>19</volume>
+        <issue>9</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of prisoner health</title>
+    <issn>1744-9200</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>5</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of public sector management</title>
+    <issn>0951-3558</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>23</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of quality and reliability management</title>
+    <issn>0265-671X</issn>
+    <coverage>
+      <from>
+        <year>1984</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>27</volume>
+        <issue>9</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of quality and service sciences</title>
+    <issn>1756-669X</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of quality science</title>
+    <issn>1359-8538</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1998</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of regulatory law &amp; practice</title>
+    <issn>0968-087X</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1993</year>
+        <volume>1</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of retail &amp; distribution management</title>
+    <issn>0959-0552</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>18</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>38</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of service industry management</title>
+    <issn>0956-4233</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2008</year>
+        <volume>19</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of social economics</title>
+    <issn>0306-8293</issn>
+    <coverage>
+      <from>
+        <year>1974</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>37</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of sociology and social policy</title>
+    <issn>0144-333X</issn>
+    <coverage>
+      <from>
+        <year>1981</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>30</volume>
+        <issue>10</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of structural integrity</title>
+    <issn>1757-9864</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of sustainability in higher education</title>
+    <issn>1467-6370</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>11</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of wine business research</title>
+    <issn>1751-1062</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>19</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>22</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of wine marketing</title>
+    <issn>0954-7541</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2006</year>
+        <volume>18</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of workplace health management</title>
+    <issn>1753-8351</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>3</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal on grey literature</title>
+    <issn>1466-6189</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2000</year>
+        <volume>1</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International marketing review</title>
+    <issn>0265-1335</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>27</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Internet research</title>
+    <issn>1066-2243</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>3</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>20</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of Asia Business Studies</title>
+    <issn>1558-7894</issn>
+    <coverage>
+      <from>
+        <year>2006</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>4</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of Chinese economic and foreign trade studies</title>
+    <issn>1754-4408</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>3</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of Chinese entrepreneurship</title>
+    <issn>1756-1396</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>5</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of Chinese human resource management</title>
+    <issn>2040-8005</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of Economic and Administrative Sciences</title>
+    <issn>1026-4116</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>19</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>26</volume>
+        <issue>1</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of European industrial training</title>
+    <issn>0309-0590</issn>
+    <coverage>
+      <from>
+        <year>1977</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>34</volume>
+        <issue>9</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of European real estate research</title>
+    <issn>1753-9269</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>3</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of HRCA</title>
+    <issn>1401-338X</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>14</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of Indian business research</title>
+    <issn>1755-4195</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of Islamic accounting and business research</title>
+    <issn>1759-0817</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of Islamic marketing</title>
+    <issn>1759-0833</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of Science and Technology Policy in China</title>
+    <issn>1758-552X</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of accounting &amp; organizational change</title>
+    <issn>1832-5912</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>6</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of adult protection</title>
+    <issn>1466-8203</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>12</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of advances in management research</title>
+    <issn>0972-7981</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>7</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of aggression, conflict and peace research</title>
+    <issn>1759-6599</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of applied accounting research</title>
+    <issn>0967-5426</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>5</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>11</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of applied research in higher education</title>
+    <issn>2050-7003</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of assistive technologies</title>
+    <issn>1754-9450</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>4</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of business &amp; industrial marketing</title>
+    <issn>0885-8624</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>25</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of children's services</title>
+    <issn>1746-6660</issn>
+    <coverage>
+      <from>
+        <year>2006</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>5</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of clinical effectiveness</title>
+    <issn>1361-5874</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1998</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of communication management (London)</title>
+    <issn>1363-254X</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>23</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of contemporary hospitality management</title>
+    <issn>0954-9234</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of corporate real estate</title>
+    <issn>1463-001X</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>12</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of documentation</title>
+    <issn>0022-0418</issn>
+    <coverage>
+      <from>
+        <year>1945</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>66</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of economic studies (Bradford)</title>
+    <issn>0144-3585</issn>
+    <coverage>
+      <from>
+        <year>1974</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>37</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of educational administration</title>
+    <issn>0957-8234</issn>
+    <coverage>
+      <from>
+        <year>1963</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>48</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of engineering, design and technology</title>
+    <issn>1726-0531</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>8</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of enterprise information management</title>
+    <issn>1741-0398</issn>
+    <coverage>
+      <from>
+        <year>2004</year>
+        <volume>17</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>23</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of enterprising communities</title>
+    <issn>1750-6204</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>4</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of facilities management</title>
+    <issn>1472-5967</issn>
+    <coverage>
+      <from>
+        <year>2002</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>8</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of fashion marketing and management</title>
+    <issn>1361-2026</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>14</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of financial crime</title>
+    <issn>1359-0790</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>17</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of financial economic policy</title>
+    <issn>1757-6385</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of financial management of property and construction</title>
+    <issn>1366-4387</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>10</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>15</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of financial regulation and compliance</title>
+    <issn>1358-1988</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>2</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>18</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of financial reporting &amp; accounting</title>
+    <issn>1985-2517</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>8</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of global responsibility</title>
+    <issn>2041-2568</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of health organization and management</title>
+    <issn>1477-7266</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>17</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>24</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of historical research in marketing</title>
+    <issn>1755-750X</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of hospitality and tourism technology</title>
+    <issn>1757-9880</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of information, communication &amp; ethics in society</title>
+    <issn>1477-996X</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>8</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of integrated care (Brighton)</title>
+    <issn>1476-9018</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>11</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>18</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of intellectual capital</title>
+    <issn>1469-1930</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>11</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of international education in business</title>
+    <issn>2046-469X</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>3</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of international trade law &amp; policy</title>
+    <issn>1477-0024</issn>
+    <coverage>
+      <from>
+        <year>2002</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>9</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of knowledge management</title>
+    <issn>1367-3270</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>11</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of knowledge-based innovation in China</title>
+    <issn>1756-1418</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of learning disabilities and offending behaviour</title>
+    <issn>2042-0927</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of management development</title>
+    <issn>0262-1711</issn>
+    <coverage>
+      <from>
+        <year>1982</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>29</volume>
+        <issue>9</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of management history (2006)</title>
+    <issn>1751-1348</issn>
+    <coverage>
+      <from>
+        <year>2006</year>
+        <volume>12</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>16</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of management history (archive)</title>
+    <issn>1355-252X</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2000</year>
+        <volume>6</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of management in medicine</title>
+    <issn>0268-9235</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2002</year>
+        <volume>16</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of managerial psychology</title>
+    <issn>0268-3946</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>25</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of manufacturing technology management</title>
+    <issn>1741-038X</issn>
+    <coverage>
+      <from>
+        <year>2004</year>
+        <volume>15</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>21</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of marketing practice: applied marketing science</title>
+    <issn>1355-2538</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1999</year>
+        <volume>5</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of modelling in management</title>
+    <issn>1746-5664</issn>
+    <coverage>
+      <from>
+        <year>2006</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>5</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of money laundering control</title>
+    <issn>1368-5201</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>13</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of organisational change management</title>
+    <issn>0953-4814</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>23</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of place management and development</title>
+    <issn>1753-8335</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>3</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of property finance</title>
+    <issn>0958-868X</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1997</year>
+        <volume>8</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of property investment and finance</title>
+    <issn>1463-578X</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>17</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>28</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of property valuation &amp; investment</title>
+    <issn>0960-2712</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>9</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1998</year>
+        <volume>16</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of public mental health</title>
+    <issn>1746-5729</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>9</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of quality in maintenance engineering</title>
+    <issn>1355-2511</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>16</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of research in interactive marketing</title>
+    <issn>2040-7122</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>4</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>4</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of research in marketing &amp; entrepreneurship</title>
+    <issn>1471-5201</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>12</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of service management</title>
+    <issn>1757-5818</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>20</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>21</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of small business and enterprise development</title>
+    <issn>1462-6004</issn>
+    <coverage>
+      <from>
+        <year>1998</year>
+        <volume>5</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>17</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of strategy and management</title>
+    <issn>1755-425X</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of systems and information technology</title>
+    <issn>1328-7265</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2004</year>
+        <volume>12</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of technology management in China</title>
+    <issn>1746-8779</issn>
+    <coverage>
+      <from>
+        <year>2006</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>5</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of valuation</title>
+    <issn>0263-7480</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1990</year>
+        <volume>8</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of workplace learning</title>
+    <issn>1366-5626</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>9</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>9</volume>
+        <issue>1</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Knight's industrial law reports</title>
+    <issn>0023-2270</issn>
+    <coverage>
+      <from>
+        <year>1966</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1974</year>
+        <volume>17</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Kybernetes</title>
+    <issn>0368-492X</issn>
+    <coverage>
+      <from>
+        <year>1972</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>39</volume>
+        <issue>10</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Leadership &amp; organization development journal</title>
+    <issn>0143-7739</issn>
+    <coverage>
+      <from>
+        <year>1980</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>31</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Leadership in health services (2007. Print)</title>
+    <issn>1751-1879</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>20</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>23</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Learning organization</title>
+    <issn>0969-6474</issn>
+    <coverage>
+      <from>
+        <year>1994</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>17</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Librarian career development</title>
+    <issn>0968-0810</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1999</year>
+        <volume>7</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Library consortium management</title>
+    <issn>1466-2752</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2000</year>
+        <volume>2</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Library hi tech</title>
+    <issn>0737-8831</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>28</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Library hi tech news</title>
+    <issn>0741-9058</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>16</volume>
+        <issue>3</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>27</volume>
+        <issue>10</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Library management</title>
+    <issn>0143-5124</issn>
+    <coverage>
+      <from>
+        <year>1979</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>31</volume>
+        <issue>9</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Library review (Glasgow)</title>
+    <issn>0024-2535</issn>
+    <coverage>
+      <from>
+        <year>1927</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>59</volume>
+        <issue>9</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Library workstation and PC report</title>
+    <issn>0894-9158</issn>
+    <coverage>
+      <from>
+        <year>1987</year>
+        <volume>4</volume>
+        <issue>8</issue>
+      </from>
+      <to>
+        <year>1988</year>
+        <volume>5</volume>
+        <issue>11</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Library workstation report</title>
+    <issn>1041-7923</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>6</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1991</year>
+        <volume>8</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Life in the day</title>
+    <issn>1366-6282</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2009</year>
+        <volume>13</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Logistics World</title>
+    <issn>0953-2137</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1989</year>
+        <volume>2</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Logistics information management</title>
+    <issn>0957-6053</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>2</volume>
+        <issue>4</issue>
+      </from>
+      <to>
+        <year>2003</year>
+        <volume>16</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>M300 and PC report</title>
+    <issn>0743-7633</issn>
+    <coverage>
+      <from>
+        <year>1984</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1987</year>
+        <volume>4</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>MCC (Brighton)</title>
+    <issn>1477-5190</issn>
+    <coverage>
+      <from>
+        <year>2002</year>
+        <volume>10</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2002</year>
+        <volume>10</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Management decision</title>
+    <issn>0025-1747</issn>
+    <coverage>
+      <from>
+        <year>1967</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>48</volume>
+        <issue>10</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Management development review</title>
+    <issn>1461-7633</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>5</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1997</year>
+        <volume>10</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Management of environmental quality</title>
+    <issn>1477-7835</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>14</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>21</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Management research (Armonk, N.Y.)</title>
+    <issn>1536-5433</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>8</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Management research news</title>
+    <issn>0140-9174</issn>
+    <coverage>
+      <from>
+        <year>1978</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2009</year>
+        <volume>32</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Management research review</title>
+    <issn>2040-8269</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>33</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>33</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Managerial auditing journal</title>
+    <issn>0268-6902</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>25</volume>
+        <issue>9</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Managerial finance</title>
+    <issn>0307-4358</issn>
+    <coverage>
+      <from>
+        <year>1975</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>36</volume>
+        <issue>9</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Managerial law</title>
+    <issn>0309-0558</issn>
+    <coverage>
+      <from>
+        <year>1975</year>
+        <volume>18</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2007</year>
+        <volume>49</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Managing community care</title>
+    <issn>1461-5436</issn>
+    <coverage>
+      <from>
+        <year>1998</year>
+        <volume>6</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2001</year>
+        <volume>6</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Managing service quality</title>
+    <issn>0960-4529</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>24</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Marketing intelligence &amp; planning</title>
+    <issn>0263-4503</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>28</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Measuring business excellence</title>
+    <issn>1368-3047</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>14</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Mental health and social inclusion</title>
+    <issn>2042-8308</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>14</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>14</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Mental health review (Brighton)</title>
+    <issn>1361-9322</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>15</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Microelectronics international</title>
+    <issn>1356-5362</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>12</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>27</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Mid-American journal of business</title>
+    <issn>0895-1772</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2007</year>
+        <volume>22</volume>
+        <issue>1</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Multicultural education &amp; technology journal</title>
+    <issn>1750-497X</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>4</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Multidiscipline modeling in materials and structures</title>
+    <issn>1573-6105</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>6</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Multinational business review</title>
+    <issn>1525-383X</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>11</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>18</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Nankai business review international</title>
+    <issn>2040-8749</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>New library world</title>
+    <issn>0307-4803</issn>
+    <coverage>
+      <from>
+        <year>1898</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>111</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Nutrition &amp; food science</title>
+    <issn>0034-6659</issn>
+    <coverage>
+      <from>
+        <year>1971</year>
+        <volume>71</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>40</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>OCLC micro</title>
+    <issn>8756-5196</issn>
+    <coverage>
+      <from>
+        <year>1985</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1992</year>
+        <volume>8</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>OCLC systems &amp; services</title>
+    <issn>1065-075X</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+        <volume>9</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>26</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Office. Technology and people</title>
+    <issn>0167-5710</issn>
+    <coverage>
+      <from>
+        <year>1982</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1989</year>
+        <volume>5</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>On the horizon (Bradford)</title>
+    <issn>1074-8121</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>8</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>18</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>On-line review</title>
+    <issn>0309-314X</issn>
+    <coverage>
+      <from>
+        <year>1977</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1992</year>
+        <volume>16</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Online &amp; CD ROM review</title>
+    <issn>1353-2642</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>17</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1999</year>
+        <volume>23</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Online information review</title>
+    <issn>1468-4527</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>24</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>34</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Organizational analysis</title>
+    <issn>1551-7470</issn>
+    <coverage>
+      <from>
+        <year>2004</year>
+        <volume>12</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2004</year>
+        <volume>12</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Pacific accounting review</title>
+    <issn>0114-0582</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>9</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>22</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Participation and Empowerment: An International Journal</title>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>7</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1999</year>
+        <volume>7</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Performance measurement and metrics</title>
+    <issn>1467-8047</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>11</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Personnel review</title>
+    <issn>0048-3486</issn>
+    <coverage>
+      <from>
+        <year>1971</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>39</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Pigment &amp; resin technology</title>
+    <issn>0369-9420</issn>
+    <coverage>
+      <from>
+        <year>1972</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>39</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Planning review</title>
+    <issn>0094-064X</issn>
+    <coverage>
+      <from>
+        <year>1975</year>
+        <volume>3</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1996</year>
+        <volume>24</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Police studies</title>
+    <issn>0141-2949</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>18</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1996</year>
+        <volume>19</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Policing (Bradford)</title>
+    <issn>1363-951X</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>20</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>33</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Pricing strategy &amp; practice</title>
+    <issn>0968-4905</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>5</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1997</year>
+        <volume>5</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Program (London. 1966)</title>
+    <issn>0033-0337</issn>
+    <coverage>
+      <from>
+        <year>1966</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>44</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Property management (London)</title>
+    <issn>0263-7472</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>28</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Qualitative market research</title>
+    <issn>1352-2752</issn>
+    <coverage>
+      <from>
+        <year>1998</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>13</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Qualitative research in accounting &amp; management</title>
+    <issn>1176-6093</issn>
+    <coverage>
+      <from>
+        <year>2004</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>7</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Qualitative research in financial markets</title>
+    <issn>1755-4179</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Qualitative research in organizations and management</title>
+    <issn>1746-5648</issn>
+    <coverage>
+      <from>
+        <year>2006</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>5</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Qualitative research journal</title>
+    <issn>1443-9883</issn>
+    <coverage>
+      <from>
+        <year>2006</year>
+        <volume>6</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>10</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Quality assurance in education</title>
+    <issn>0968-4883</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>23</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Quality in ageing</title>
+    <issn>1471-7794</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2009</year>
+        <volume>10</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Quality in ageing and older adults</title>
+    <issn>2044-1827</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>11</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>11</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Rapid prototyping journal</title>
+    <issn>1355-2546</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>16</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Records management journal (London)</title>
+    <issn>0956-5698</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>20</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Reference reviews</title>
+    <issn>0950-4125</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>11</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>24</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Reference services review</title>
+    <issn>0090-7324</issn>
+    <coverage>
+      <from>
+        <year>1973</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>38</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Retail &amp; distribution management</title>
+    <issn>0307-2363</issn>
+    <coverage>
+      <from>
+        <year>1973</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1989</year>
+        <volume>17</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Review of Behavioural Finance</title>
+    <issn>1940-5979</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Review of accounting &amp; finance</title>
+    <issn>1475-7702</issn>
+    <coverage>
+      <from>
+        <year>2002</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>9</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Safer communities</title>
+    <issn>1757-8043</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>7</volume>
+        <issue>3</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>9</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Scientific Lubrication</title>
+    <issn>0371-0947</issn>
+    <coverage>
+      <from>
+        <year>1948</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1966</year>
+        <volume>18</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Sensor review</title>
+    <issn>0260-2288</issn>
+    <coverage>
+      <from>
+        <year>1981</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>30</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Small business and enterprise development</title>
+    <issn>1361-5890</issn>
+    <coverage>
+      <from>
+        <year>1994</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1997</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Social care and neurodisability</title>
+    <issn>2042-0919</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Social enterprise journal</title>
+    <issn>1750-8614</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>6</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Social responsibility journal</title>
+    <issn>1747-1117</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>6</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Society and business review</title>
+    <issn>1746-5680</issn>
+    <coverage>
+      <from>
+        <year>2006</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>5</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Soldering &amp; surface mount technology</title>
+    <issn>0954-0911</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>22</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Strategic HR review</title>
+    <issn>1475-4398</issn>
+    <coverage>
+      <from>
+        <year>2004</year>
+        <volume>4</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>9</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Strategic direction (Zurich)</title>
+    <issn>0258-0543</issn>
+    <coverage>
+      <from>
+        <year>2002</year>
+        <volume>18</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>26</volume>
+        <issue>9</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Strategic outsourcing</title>
+    <issn>1753-8297</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>3</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Strategy &amp; leadership</title>
+    <issn>1087-8572</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>3</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>38</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Structural survey</title>
+    <issn>0263-080X</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>28</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Studies in economic analysis</title>
+    <issn>0198-8263</issn>
+    <coverage>
+      <from>
+        <year>1977</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1994</year>
+        <volume>15</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Studies in economics and finance (Charlotte, N.C.)</title>
+    <issn>1086-7376</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>16</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>27</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Supply chain management</title>
+    <issn>1359-8546</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>15</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Sustainability accounting, management and policy journal</title>
+    <issn>2040-8021</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>1</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>TQM magazine</title>
+    <issn>0954-478X</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2007</year>
+        <volume>19</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Team performance management</title>
+    <issn>1352-7592</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>16</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The British journal of leadership in public services</title>
+    <issn>1747-9886</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2006</year>
+        <volume>2</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The International journal of conflict management</title>
+    <issn>1044-4068</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>21</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The Journal of consumer marketing</title>
+    <issn>0736-3761</issn>
+    <coverage>
+      <from>
+        <year>1984</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>27</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The Journal of services marketing</title>
+    <issn>0887-6045</issn>
+    <coverage>
+      <from>
+        <year>1987</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>24</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The TQM journal</title>
+    <issn>1754-2731</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>20</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>22</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The bottom line (New York, N.Y.)</title>
+    <issn>0888-045X</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>23</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The international journal of leadership in public services</title>
+    <issn>1754-8187</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>3</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>6</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The international journal of productivity and performance management</title>
+    <issn>1741-0401</issn>
+    <coverage>
+      <from>
+        <year>2004</year>
+        <volume>53</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>59</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The journal of business strategy</title>
+    <issn>0275-6668</issn>
+    <coverage>
+      <from>
+        <year>1980</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>31</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The journal of investment compliance</title>
+    <issn>1528-5812</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>11</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The journal of mental health training, education and practice</title>
+    <issn>1755-6228</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>5</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The journal of mental health workforce development</title>
+    <issn>1750-0699</issn>
+    <coverage>
+      <from>
+        <year>2006</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2007</year>
+        <volume>1</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The journal of product &amp; brand management</title>
+    <issn>1061-0421</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>19</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The journal of risk finance</title>
+    <issn>1526-5943</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>11</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Tizard learning disability review</title>
+    <issn>1359-5474</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>1</volume>
+        <issue>3</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>15</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Tourism review</title>
+    <issn>0251-3102</issn>
+    <coverage>
+      <from>
+        <year>1946</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2000</year>
+        <volume>55</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Tourism review (St. Gallen)</title>
+    <issn>1660-5373</issn>
+    <coverage>
+      <from>
+        <year>2001</year>
+        <volume>56</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>65</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Training for quality</title>
+    <issn>0968-4875</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1997</year>
+        <volume>5</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Training strategies for tomorrow</title>
+    <issn>1369-7234</issn>
+    <coverage>
+      <from>
+        <year>2002</year>
+        <volume>16</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2002</year>
+        <volume>16</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Transforming government</title>
+    <issn>1750-6166</issn>
+    <coverage>
+      <from>
+        <year>2007</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>4</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>VINE. Very informal newsletter on library automation</title>
+    <issn>0305-5728</issn>
+    <coverage>
+      <from>
+        <year>1971</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>40</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Women in management review</title>
+    <issn>0267-4602</issn>
+    <coverage>
+      <from>
+        <year>1985</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1988</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Women in management review &amp; abstracts</title>
+    <issn>0955-8357</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>4</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1991</year>
+        <volume>6</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Women in management review (1992)</title>
+    <issn>0964-9425</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>7</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2007</year>
+        <volume>22</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Work study</title>
+    <issn>0043-8022</issn>
+    <coverage>
+      <from>
+        <year>1952</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2003</year>
+        <volume>52</volume>
+        <issue>7</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Working with older people</title>
+    <issn>1366-3666</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>4</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>14</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>World class design to manufacture</title>
+    <issn>1352-3074</issn>
+    <coverage>
+      <from>
+        <year>1994</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1995</year>
+        <volume>2</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>World journal of entrepreneurship, management and sustainable development</title>
+    <issn>2042-5961</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>6</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>6</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>World journal of science, technology and sustainable development</title>
+    <issn>2042-5945</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>7</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>7</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Worldwide hospitality and tourism themes</title>
+    <issn>1755-4217</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>2</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Young consumers</title>
+    <issn>1747-3616</issn>
+    <coverage>
+      <from>
+        <year>2002</year>
+        <volume>3</volume>
+        <issue>2</issue>
+      </from>
+      <to>
+        <year>2010</year>
+        <volume>11</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+</institutional_holdings>

@@ -1,3 +1,3748 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE institutional_holdings PUBLIC "-//GOOGLE//Institutional Holdings 1.0//EN" "http://scholar.google.com/scholar/institutional_holdings.dtd">
-<institutional_holdings/>
+<institutional_holdings>
+  <item type="electronic">
+    <title>20 century British history</title>
+    <issn>0955-2359</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>African affairs</title>
+    <issn>0001-9909</issn>
+    <coverage>
+      <from>
+        <year>1944</year>
+        <volume>43</volume>
+        <issue>172</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Age and ageing</title>
+    <issn>0002-0729</issn>
+    <coverage>
+      <from>
+        <year>1972</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Alcohol and alcoholism</title>
+    <issn>0735-0414</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+        <volume>18</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>American journal of agricultural economics</title>
+    <issn>0002-9092</issn>
+    <coverage>
+      <from>
+        <year>1968</year>
+        <volume>50</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>American journal of epidemiology</title>
+    <issn>0002-9262</issn>
+    <coverage>
+      <from>
+        <year>1965</year>
+        <volume>81</volume>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>American journal of hygiene</title>
+    <issn>0096-5294</issn>
+    <coverage>
+      <from>
+        <year>1921</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1964</year>
+        <volume>80</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>American journal of hypertension</title>
+    <issn>0895-7061</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>American literary history</title>
+    <issn>0896-7148</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>American zoologist</title>
+    <issn>0003-1569</issn>
+    <coverage>
+      <from>
+        <year>1961</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2001</year>
+        <volume>41</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Analysis</title>
+    <issn>0003-2638</issn>
+    <coverage>
+      <from>
+        <year>1933</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Annals of Physical Medicine</title>
+    <issn>0365-5547</issn>
+    <coverage>
+      <from>
+        <year>1952</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1970</year>
+        <volume>10</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Annals of botany</title>
+    <issn>0305-7364</issn>
+    <coverage>
+      <from>
+        <year>1887</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Annals of occupational hygiene</title>
+    <issn>0003-4878</issn>
+    <coverage>
+      <from>
+        <year>1958</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Annals of oncology</title>
+    <issn>0923-7534</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Applied economic perspectives and policy</title>
+    <issn>2040-5790</issn>
+    <coverage>
+      <from>
+        <year>2010</year>
+        <volume>32</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Applied linguistics</title>
+    <issn>0142-6001</issn>
+    <coverage>
+      <from>
+        <year>1980</year>
+        <volume>1</volume>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Archives of clinical neuropsychology</title>
+    <issn>0887-6177</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Astronomy and geophysics</title>
+    <issn>1366-8781</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+        <volume>38</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Behavioral ecology</title>
+    <issn>1045-2249</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Bioinformatics</title>
+    <issn>1367-4803</issn>
+    <coverage>
+      <from>
+        <year>1998</year>
+        <volume>14</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Biometrika</title>
+    <issn>0006-3444</issn>
+    <coverage>
+      <from>
+        <year>1901</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Brain</title>
+    <issn>0006-8950</issn>
+    <coverage>
+      <from>
+        <year>1878</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British Medical Bulletin</title>
+    <issn>0007-1420</issn>
+    <coverage>
+      <from>
+        <year>1943</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal for the philosophy of science</title>
+    <issn>0007-0882</issn>
+    <coverage>
+      <from>
+        <year>1950</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal of aesthetics</title>
+    <issn>0007-0904</issn>
+    <coverage>
+      <from>
+        <year>1960</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal of anaesthesia</title>
+    <issn>0007-0912</issn>
+    <coverage>
+      <from>
+        <year>1923</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal of criminology</title>
+    <issn>0007-0955</issn>
+    <coverage>
+      <from>
+        <year>1960</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal of rheumatology</title>
+    <issn>0263-7103</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal of social work</title>
+    <issn>0045-3102</issn>
+    <coverage>
+      <from>
+        <year>1971</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>British journal on alcohol and alcoholism</title>
+    <issn>0309-1635</issn>
+    <coverage>
+      <from>
+        <year>1977</year>
+        <volume>12</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1982</year>
+        <volume>17</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Bulletin of the IGPL</title>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1995</year>
+        <volume>3</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Bulletin of the London Mathematical Society</title>
+    <issn>0024-6093</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>28</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Cambridge journal of economics</title>
+    <issn>0309-166X</issn>
+    <coverage>
+      <from>
+        <year>1977</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Cambridge quarterly</title>
+    <issn>0008-199X</issn>
+    <coverage>
+      <from>
+        <year>1965</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Carcinogenesis</title>
+    <issn>0143-3334</issn>
+    <coverage>
+      <from>
+        <year>1980</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Cardiovascular research</title>
+    <issn>0008-6363</issn>
+    <coverage>
+      <from>
+        <year>1967</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Cerebral cortex</title>
+    <issn>1047-3211</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Chemical senses</title>
+    <issn>0379-864X</issn>
+    <coverage>
+      <from>
+        <year>1980</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Chemical senses and flavor</title>
+    <issn>0302-2471</issn>
+    <coverage>
+      <from>
+        <year>1974</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1979</year>
+        <volume>4</volume>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Children &amp; schools</title>
+    <issn>1532-8759</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Christian bioethics</title>
+    <issn>1380-3603</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Clinical infectious diseases</title>
+    <issn>1058-4838</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>14</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Community development journal</title>
+    <issn>0010-3802</issn>
+    <coverage>
+      <from>
+        <year>1966</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Community medicine</title>
+    <issn>0142-2456</issn>
+    <coverage>
+      <from>
+        <year>1979</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1989</year>
+        <volume>11</volume>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Computer applications in the biosciences</title>
+    <issn>0266-7061</issn>
+    <coverage>
+      <from>
+        <year>1985</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1997</year>
+        <volume>13</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Contributions to political economy</title>
+    <issn>0277-5921</issn>
+    <coverage>
+      <from>
+        <year>1982</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Current legal problems</title>
+    <issn>0070-1998</issn>
+    <coverage>
+      <from>
+        <year>1948</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Diplomatic history</title>
+    <issn>0145-2096</issn>
+    <coverage>
+      <from>
+        <year>1977</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>ELT journal</title>
+    <issn>0951-0893</issn>
+    <coverage>
+      <from>
+        <year>1981</year>
+        <volume>36</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Early music</title>
+    <issn>0306-1078</issn>
+    <coverage>
+      <from>
+        <year>1973</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>English</title>
+    <issn>0013-8215</issn>
+    <coverage>
+      <from>
+        <year>1936</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>English historical review</title>
+    <issn>0013-8266</issn>
+    <coverage>
+      <from>
+        <year>1886</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>English language teaching</title>
+    <issn>0013-8290</issn>
+    <coverage>
+      <from>
+        <year>1946</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1973</year>
+        <volume>27</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>English language teaching journal</title>
+    <issn>0307-8337</issn>
+    <coverage>
+      <from>
+        <year>1973</year>
+        <volume>28</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1981</year>
+        <volume>35</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Environmental history</title>
+    <issn>1084-5453</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Environmental history review</title>
+    <issn>1053-4180</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Environmental review</title>
+    <issn>0147-2496</issn>
+    <coverage>
+      <from>
+        <year>1976</year>
+        <volume>1</volume>
+      </from>
+      <to>
+        <year>1989</year>
+        <volume>13</volume>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Epidemiologic reviews</title>
+    <issn>0193-936X</issn>
+    <coverage>
+      <from>
+        <year>1979</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Essays in criticism</title>
+    <issn>0014-0856</issn>
+    <coverage>
+      <from>
+        <year>1951</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>European heart journal</title>
+    <issn>0195-668X</issn>
+    <coverage>
+      <from>
+        <year>1980</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>European journal of cardio-thoracic surgery</title>
+    <issn>1010-7940</issn>
+    <coverage>
+      <from>
+        <year>1987</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>European journal of orthodontics</title>
+    <issn>0141-5387</issn>
+    <coverage>
+      <from>
+        <year>1979</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>European journal of public health</title>
+    <issn>1101-1262</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>European review of agricultural economics</title>
+    <issn>0165-1587</issn>
+    <coverage>
+      <from>
+        <year>1973</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>European sociological review</title>
+    <issn>0266-7215</issn>
+    <coverage>
+      <from>
+        <year>1985</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Family practice</title>
+    <issn>0263-2136</issn>
+    <coverage>
+      <from>
+        <year>1984</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Forest &amp; conservation history</title>
+    <issn>1046-7009</issn>
+    <coverage>
+      <from>
+        <year>1957</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Forest history newsletter</title>
+    <issn>0015-7422</issn>
+    <coverage>
+      <from>
+        <year>1957</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1974</year>
+        <volume>17</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Forestry</title>
+    <issn>0015-752X</issn>
+    <coverage>
+      <from>
+        <year>1927</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Forum for modern language studies</title>
+    <issn>0015-8518</issn>
+    <coverage>
+      <from>
+        <year>1965</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>French history</title>
+    <issn>0269-1191</issn>
+    <coverage>
+      <from>
+        <year>1987</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>French studies</title>
+    <issn>0016-1128</issn>
+    <coverage>
+      <from>
+        <year>1947</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>French studies bulletin</title>
+    <issn>0262-2750</issn>
+    <coverage>
+      <from>
+        <year>1981</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Fundamental and applied toxicology</title>
+    <issn>0272-0590</issn>
+    <coverage>
+      <from>
+        <year>1981</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1997</year>
+        <volume>40</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Geophysical journal</title>
+    <issn>0952-4592</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+      </from>
+      <to>
+        <year>1989</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Geophysical journal international</title>
+    <issn>0956-540X</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Geophysical journal of the Royal Astronomical Society</title>
+    <issn>0016-8009</issn>
+    <coverage>
+      <from>
+        <year>1958</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Geophysical supplements to the monthly notices of the Royal Astronomical Society</title>
+    <issn>2051-1965</issn>
+    <coverage>
+      <from>
+        <year>1922</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>German history</title>
+    <issn>0266-3554</issn>
+    <coverage>
+      <from>
+        <year>1984</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Glycobiology</title>
+    <issn>0959-6658</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Health &amp; social work</title>
+    <issn>0360-7283</issn>
+    <coverage>
+      <from>
+        <year>1976</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Health education research</title>
+    <issn>0268-1153</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Health policy and planning</title>
+    <issn>0268-1080</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Health promotion</title>
+    <issn>0268-1099</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1989</year>
+        <volume>4</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Health promotion international</title>
+    <issn>0957-4824</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>5</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>History workshop</title>
+    <issn>0309-2984</issn>
+    <coverage>
+      <from>
+        <year>1976</year>
+        <volume>1</volume>
+      </from>
+      <to>
+        <year>1994</year>
+        <volume>38</volume>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>History workshop journal</title>
+    <issn>1363-3554</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>39</volume>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Holocaust and genocide studies</title>
+    <issn>8756-6583</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Human molecular genetics</title>
+    <issn>0964-6906</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Human reproduction</title>
+    <issn>0268-1161</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Human reproduction update</title>
+    <issn>1355-4786</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>ICES journal of marine science</title>
+    <issn>1054-3139</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+        <volume>48</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>ICSID review</title>
+    <issn>0258-3690</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>11</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>IMA journal of applied mathematics</title>
+    <issn>0272-4960</issn>
+    <coverage>
+      <from>
+        <year>1981</year>
+        <volume>27</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>IMA journal of management mathematics</title>
+    <issn>1471-678X</issn>
+    <coverage>
+      <from>
+        <year>2001</year>
+        <volume>12</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>IMA journal of mathematical control and information</title>
+    <issn>0265-0754</issn>
+    <coverage>
+      <from>
+        <year>1984</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>IMA journal of mathematics applied in business and industry</title>
+    <issn>0953-0061</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2000</year>
+        <volume>11</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>IMA journal of mathematics applied in medicine and biology</title>
+    <issn>0265-0746</issn>
+    <coverage>
+      <from>
+        <year>1984</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2002</year>
+        <volume>19</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>IMA journal of mathematics in management</title>
+    <issn>0268-1129</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>4</issue>
+      </from>
+      <to>
+        <year>1987</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>IMA journal of numerical analysis</title>
+    <issn>0272-4979</issn>
+    <coverage>
+      <from>
+        <year>1981</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>ITNOW</title>
+    <issn>1746-5702</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+        <volume>47</volume>
+        <issue>2</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Industrial Law journal</title>
+    <issn>0305-9332</issn>
+    <coverage>
+      <from>
+        <year>1972</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Industrial and corporate change</title>
+    <issn>0960-6491</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Integrative and comparative biology</title>
+    <issn>1540-7063</issn>
+    <coverage>
+      <from>
+        <year>2002</year>
+        <volume>42</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Interacting with computers</title>
+    <issn>0953-5438</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Interdisciplinary studies in literature and environment</title>
+    <issn>1076-0962</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International immunology</title>
+    <issn>0953-8178</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal for quality in health care</title>
+    <issn>1353-4505</issn>
+    <coverage>
+      <from>
+        <year>1994</year>
+        <volume>6</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of epidemiology</title>
+    <issn>0300-5771</issn>
+    <coverage>
+      <from>
+        <year>1972</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of law and information technology</title>
+    <issn>0967-0769</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of law and the family</title>
+    <issn>0950-4109</issn>
+    <coverage>
+      <from>
+        <year>1987</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1995</year>
+        <volume>9</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of law, policy and the family</title>
+    <issn>1360-9939</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>10</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of lexicography</title>
+    <issn>0950-3846</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of public opinion research</title>
+    <issn>0954-2892</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International journal of refugee law</title>
+    <issn>0953-8186</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International mathematics research notices</title>
+    <issn>1073-7928</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+        <volume>1991</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>International mathematics research papers</title>
+    <issn>1687-3017</issn>
+    <coverage>
+      <from>
+        <year>2005</year>
+      </from>
+      <to>
+        <year>2008</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Japanese journal of clinical oncology</title>
+    <issn>0368-2811</issn>
+    <coverage>
+      <from>
+        <year>1971</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal du Conseil - Conseil international pour l'exploration de la mer</title>
+    <issn>0020-6466</issn>
+    <coverage>
+      <from>
+        <year>1968</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1990</year>
+        <volume>47</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal du Conseil - Conseil permanent international pour l'exploration de la mer</title>
+    <issn>0902-3232</issn>
+    <coverage>
+      <from>
+        <year>1926</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of African economies</title>
+    <issn>0963-8024</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of Bible and religion</title>
+    <issn>0885-2758</issn>
+    <coverage>
+      <from>
+        <year>1937</year>
+        <volume>5</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1966</year>
+        <volume>34</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of Biochemistry</title>
+    <issn>0021-924X</issn>
+    <coverage>
+      <from>
+        <year>1922</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of Islamic Studies</title>
+    <issn>0955-2340</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of alcoholism</title>
+    <issn>0021-8685</issn>
+    <coverage>
+      <from>
+        <year>1968</year>
+      </from>
+      <to>
+        <year>1976</year>
+        <volume>11</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of analytical toxicology</title>
+    <issn>0146-4760</issn>
+    <coverage>
+      <from>
+        <year>1977</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of antimicrobial chemotherapy</title>
+    <issn>0305-7453</issn>
+    <coverage>
+      <from>
+        <year>1975</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of chromatographic science</title>
+    <issn>0021-9665</issn>
+    <coverage>
+      <from>
+        <year>1969</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of church and state</title>
+    <issn>0021-969X</issn>
+    <coverage>
+      <from>
+        <year>1959</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of design history</title>
+    <issn>0952-4649</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of electron microscopy</title>
+    <issn>0022-0744</issn>
+    <coverage>
+      <from>
+        <year>1953</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of environmental law</title>
+    <issn>0952-8873</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of experimental botany</title>
+    <issn>0022-0957</issn>
+    <coverage>
+      <from>
+        <year>1950</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of farm economics</title>
+    <issn>1071-1031</issn>
+    <coverage>
+      <from>
+        <year>1919</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1967</year>
+        <volume>49</volume>
+        <issue>5</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of forest history</title>
+    <issn>0094-5080</issn>
+    <coverage>
+      <from>
+        <year>1974</year>
+        <volume>18</volume>
+      </from>
+      <to>
+        <year>1989</year>
+        <volume>33</volume>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of gas chromatography</title>
+    <issn>0096-2686</issn>
+    <coverage>
+      <from>
+        <year>1963</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of gerontology</title>
+    <issn>0022-1422</issn>
+    <coverage>
+      <from>
+        <year>1946</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1994</year>
+        <volume>49</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of heredity</title>
+    <issn>0022-1503</issn>
+    <coverage>
+      <from>
+        <year>1910</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of law, economics, &amp; organization</title>
+    <issn>8756-6222</issn>
+    <coverage>
+      <from>
+        <year>1985</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of logic and computation</title>
+    <issn>0955-792X</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of molluscan studies</title>
+    <issn>0260-1230</issn>
+    <coverage>
+      <from>
+        <year>1976</year>
+        <volume>42</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of pediatric psychology</title>
+    <issn>0146-8693</issn>
+    <coverage>
+      <from>
+        <year>1976</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of petrology</title>
+    <issn>0022-3530</issn>
+    <coverage>
+      <from>
+        <year>1960</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of plankton research</title>
+    <issn>0142-7873</issn>
+    <coverage>
+      <from>
+        <year>1979</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of public administration research and theory</title>
+    <issn>1053-1858</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of public health</title>
+    <issn>1741-3842</issn>
+    <coverage>
+      <from>
+        <year>2004</year>
+        <volume>26</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of public health medicine</title>
+    <issn>0957-4832</issn>
+    <coverage>
+      <from>
+        <year>1990</year>
+        <volume>12</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2003</year>
+        <volume>25</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of refugee studies</title>
+    <issn>0951-6328</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of semantics</title>
+    <issn>0167-5133</issn>
+    <coverage>
+      <from>
+        <year>1982</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of semitic studies</title>
+    <issn>0022-4480</issn>
+    <coverage>
+      <from>
+        <year>1956</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of social history</title>
+    <issn>0022-4529</issn>
+    <coverage>
+      <from>
+        <year>1967</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of the African Society</title>
+    <issn>1753-4577</issn>
+    <coverage>
+      <from>
+        <year>1901</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1935</year>
+        <volume>34</volume>
+        <issue>135</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of the American Academy of Religion</title>
+    <issn>0002-7189</issn>
+    <coverage>
+      <from>
+        <year>1967</year>
+        <volume>35</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of the IGPL</title>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>3</volume>
+        <issue>5</issue>
+      </from>
+      <to>
+        <year>1997</year>
+        <volume>4</volume>
+        <issue>3</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of the Institute of Mathematics and Its Applications</title>
+    <issn>0020-2932</issn>
+    <coverage>
+      <from>
+        <year>1965</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1980</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of the London Mathematical Society</title>
+    <issn>0024-6107</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of the National Association of Biblical Instructors</title>
+    <issn>1549-9804</issn>
+    <coverage>
+      <from>
+        <year>1933</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1936</year>
+        <volume>4</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of the National Cancer Institute</title>
+    <issn>0027-8874</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of the Royal African Society</title>
+    <issn>0368-4016</issn>
+    <coverage>
+      <from>
+        <year>1901</year>
+      </from>
+      <to>
+        <year>1944</year>
+        <volume>43</volume>
+        <issue>171</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of the Society of Occupational Medicine</title>
+    <issn>0301-0023</issn>
+    <coverage>
+      <from>
+        <year>1973</year>
+        <volume>23</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1991</year>
+        <volume>44</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of the history of collections</title>
+    <issn>0954-6650</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of the history of medicine and allied sciences</title>
+    <issn>0022-5045</issn>
+    <coverage>
+      <from>
+        <year>1946</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of theological studies</title>
+    <issn>0022-5185</issn>
+    <coverage>
+      <from>
+        <year>1899</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of tropical pediatrics</title>
+    <issn>0449-3281</issn>
+    <coverage>
+      <from>
+        <year>1955</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1959</year>
+        <volume>5</volume>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of tropical pediatrics</title>
+    <issn>0142-6338</issn>
+    <coverage>
+      <from>
+        <year>1980</year>
+        <volume>26</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of tropical pediatrics</title>
+    <issn>0267-0593</issn>
+    <coverage>
+      <from>
+        <year>1967</year>
+        <volume>13</volume>
+        <issue>3</issue>
+      </from>
+      <to>
+        <year>1970</year>
+        <volume>16</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of tropical pediatrics and African child health</title>
+    <issn>0368-4512</issn>
+    <coverage>
+      <from>
+        <year>1959</year>
+        <volume>5</volume>
+        <issue>3</issue>
+      </from>
+      <to>
+        <year>1967</year>
+        <volume>13</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Journal of tropical pediatrics and environmental child health</title>
+    <issn>0300-9920</issn>
+    <coverage>
+      <from>
+        <year>1971</year>
+        <volume>17</volume>
+      </from>
+      <to>
+        <year>1979</year>
+        <volume>25</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Library</title>
+    <issn>0024-2160</issn>
+    <coverage>
+      <from>
+        <year>1889</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Literary and linguistic computing</title>
+    <issn>0268-1145</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Literature &amp; theology</title>
+    <issn>0269-1205</issn>
+    <coverage>
+      <from>
+        <year>1987</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Logic journal of the IGPL</title>
+    <issn>1367-0751</issn>
+    <coverage>
+      <from>
+        <year>1997</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Magazine of history</title>
+    <issn>0882-228X</issn>
+    <coverage>
+      <from>
+        <year>1985</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Mathematical medicine and biology</title>
+    <issn>1477-8599</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>20</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Medical bulletin on alcoholism</title>
+    <coverage>
+      <from>
+        <year>1963</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1968</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Medical law review</title>
+    <issn>0967-0742</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Melus</title>
+    <issn>0163-755X</issn>
+    <coverage>
+      <from>
+        <year>1974</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Mind</title>
+    <issn>0026-4423</issn>
+    <coverage>
+      <from>
+        <year>1876</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Modern Judaism</title>
+    <issn>0276-1114</issn>
+    <coverage>
+      <from>
+        <year>1981</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Molecular human reproduction</title>
+    <issn>1360-9947</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Monthly notices of the Royal Astronomical Society</title>
+    <issn>0035-8711</issn>
+    <coverage>
+      <from>
+        <year>1831</year>
+        <volume>2</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Music &amp; letters</title>
+    <issn>0027-4224</issn>
+    <coverage>
+      <from>
+        <year>1920</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Mutagenesis</title>
+    <issn>0267-8357</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>NDT plus</title>
+    <issn>1753-0784</issn>
+    <coverage>
+      <from>
+        <year>2008</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2011</year>
+        <volume>4</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Natural law forum</title>
+    <issn>0199-9702</issn>
+    <coverage>
+      <from>
+        <year>1956</year>
+      </from>
+      <to>
+        <year>1968</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Nephrology, dialysis, transplantation</title>
+    <issn>0931-0509</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>North Central journal of agricultural economics</title>
+    <issn>0191-9016</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>10</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1990</year>
+        <volume>12</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Notes and queries</title>
+    <issn>0029-3970</issn>
+    <coverage>
+      <from>
+        <year>1849</year>
+        <volume>1</volume>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Nucleic acids research</title>
+    <issn>0305-1048</issn>
+    <coverage>
+      <from>
+        <year>1974</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Occupational medicine</title>
+    <issn>0962-7480</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>42</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Oral history review</title>
+    <issn>0094-0798</issn>
+    <coverage>
+      <from>
+        <year>1973</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Oxford art journal</title>
+    <issn>0142-6540</issn>
+    <coverage>
+      <from>
+        <year>1978</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Oxford economic papers</title>
+    <issn>0030-7653</issn>
+    <coverage>
+      <from>
+        <year>1938</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Oxford journal of legal studies</title>
+    <issn>0143-6503</issn>
+    <coverage>
+      <from>
+        <year>1981</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Oxford review of economic policy</title>
+    <issn>0266-903X</issn>
+    <coverage>
+      <from>
+        <year>1985</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Parliamentary affairs</title>
+    <issn>0031-2290</issn>
+    <coverage>
+      <from>
+        <year>1947</year>
+        <volume>1</volume>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Past &amp; present</title>
+    <issn>0031-2746</issn>
+    <coverage>
+      <from>
+        <year>1952</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Philosophia mathematica</title>
+    <issn>0031-8019</issn>
+    <coverage>
+      <from>
+        <year>1964</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Plant and Cell Physiology</title>
+    <issn>0032-0781</issn>
+    <coverage>
+      <from>
+        <year>1959</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Political analysis</title>
+    <issn>1047-1987</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Proceedings of the London Mathematical Society</title>
+    <issn>0024-6115</issn>
+    <coverage>
+      <from>
+        <year>1865</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Proceedings of the Malacological Society of London</title>
+    <issn>0025-1194</issn>
+    <coverage>
+      <from>
+        <year>1893</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1975</year>
+        <volume>41</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Protein engineering</title>
+    <issn>0269-2139</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2003</year>
+        <volume>16</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Protein engineering, design &amp; selection</title>
+    <issn>1741-0126</issn>
+    <coverage>
+      <from>
+        <year>2004</year>
+        <volume>17</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Public opinion quarterly</title>
+    <issn>0033-362X</issn>
+    <coverage>
+      <from>
+        <year>1936</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Publications de circonstance - Conseil permanent international pour l'exploration de la mer</title>
+    <issn>0902-8684</issn>
+    <coverage>
+      <from>
+        <year>1903</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Publius</title>
+    <issn>0048-5950</issn>
+    <coverage>
+      <from>
+        <year>1971</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>QJM</title>
+    <issn>1460-2725</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>88</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Quality assurance in health care</title>
+    <issn>1040-6166</issn>
+    <coverage>
+      <from>
+        <year>1989</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1993</year>
+        <volume>5</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Quarterly journal of mathematics</title>
+    <issn>0033-5606</issn>
+    <coverage>
+      <from>
+        <year>1932</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Quarterly journal of mechanics and applied mathematics</title>
+    <issn>0033-5614</issn>
+    <coverage>
+      <from>
+        <year>1948</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Quarterly journal of medicine</title>
+    <issn>0033-5622</issn>
+    <coverage>
+      <from>
+        <year>1907</year>
+        <volume>1</volume>
+      </from>
+      <to>
+        <year>1994</year>
+        <volume>87</volume>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Radiation protection dosimetry</title>
+    <issn>0144-8420</issn>
+    <coverage>
+      <from>
+        <year>1981</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Refugee abstracts</title>
+    <issn>0253-1445</issn>
+    <coverage>
+      <from>
+        <year>1982</year>
+        <volume>1</volume>
+      </from>
+      <to>
+        <year>1993</year>
+        <volume>12</volume>
+        <issue>2</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Refugee survey quarterly</title>
+    <issn>1020-4067</issn>
+    <coverage>
+      <from>
+        <year>1994</year>
+        <volume>13</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Research evaluation</title>
+    <issn>0958-2029</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Review of English studies</title>
+    <issn>0034-6551</issn>
+    <coverage>
+      <from>
+        <year>1925</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Review of agricultural economics</title>
+    <issn>1058-7195</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Review of economic studies</title>
+    <issn>0034-6527</issn>
+    <coverage>
+      <from>
+        <year>1933</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Reviews of infectious diseases</title>
+    <issn>0162-0886</issn>
+    <coverage>
+      <from>
+        <year>1979</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1991</year>
+        <volume>13</volume>
+        <issue>6</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Rheumatology</title>
+    <issn>1462-0324</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>38</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Rheumatology and Physical Medicine</title>
+    <issn>0003-4908</issn>
+    <coverage>
+      <from>
+        <year>1970</year>
+        <volume>10</volume>
+        <issue>7</issue>
+      </from>
+      <to>
+        <year>1972</year>
+        <volume>11</volume>
+        <issue>8</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Rheumatology and rehabilitation</title>
+    <issn>0300-3396</issn>
+    <coverage>
+      <from>
+        <year>1973</year>
+        <volume>12</volume>
+      </from>
+      <to>
+        <year>1982</year>
+        <volume>21</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Science &amp; public policy</title>
+    <issn>0302-3427</issn>
+    <coverage>
+      <from>
+        <year>1974</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Screen</title>
+    <issn>0036-9543</issn>
+    <coverage>
+      <from>
+        <year>1969</year>
+        <volume>10</volume>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Social forces</title>
+    <issn>0037-7732</issn>
+    <coverage>
+      <from>
+        <year>1922</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Social history of medicine</title>
+    <issn>0951-631X</issn>
+    <coverage>
+      <from>
+        <year>1988</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Social politics</title>
+    <issn>1072-4745</issn>
+    <coverage>
+      <from>
+        <year>1994</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Social work</title>
+    <issn>0037-8046</issn>
+    <coverage>
+      <from>
+        <year>1956</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Social work in education</title>
+    <issn>0162-7961</issn>
+    <coverage>
+      <from>
+        <year>1978</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Social work research</title>
+    <issn>1070-5309</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>19</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Social work research &amp; abstracts</title>
+    <issn>0148-0847</issn>
+    <coverage>
+      <from>
+        <year>1977</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Sociological analysis</title>
+    <issn>0038-0210</issn>
+    <coverage>
+      <from>
+        <year>1964</year>
+      </from>
+      <to>
+        <year>1992</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Sociology of religion</title>
+    <issn>1069-4404</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>54</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Statute law review</title>
+    <issn>0144-3593</issn>
+    <coverage>
+      <from>
+        <year>1980</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Systematic biology</title>
+    <issn>1063-5157</issn>
+    <coverage>
+      <from>
+        <year>1992</year>
+        <volume>41</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Systematic zoology</title>
+    <issn>0039-7989</issn>
+    <coverage>
+      <from>
+        <year>1952</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1991</year>
+        <volume>40</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Teaching mathematics and its applications</title>
+    <issn>0268-3679</issn>
+    <coverage>
+      <from>
+        <year>1982</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The American historical review</title>
+    <issn>0002-8762</issn>
+    <coverage>
+      <from>
+        <year>1895</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The American journal of jurisprudence</title>
+    <issn>0065-8995</issn>
+    <coverage>
+      <from>
+        <year>1969</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The Gerontologist</title>
+    <issn>0016-9013</issn>
+    <coverage>
+      <from>
+        <year>1961</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The Journal of American history</title>
+    <issn>0021-8723</issn>
+    <coverage>
+      <from>
+        <year>1965</year>
+        <volume>51</volume>
+        <issue>4</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The Journal of medicine and philosophy</title>
+    <issn>0360-5310</issn>
+    <coverage>
+      <from>
+        <year>1976</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The Journal of social forces</title>
+    <issn>1532-1282</issn>
+    <coverage>
+      <from>
+        <year>1922</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1925</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The Mississippi Valley historical review</title>
+    <issn>0161-391X</issn>
+    <coverage>
+      <from>
+        <year>1914</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1964</year>
+        <volume>50</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The Musical quarterly</title>
+    <issn>0027-4631</issn>
+    <coverage>
+      <from>
+        <year>1915</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The Opera quarterly</title>
+    <issn>0736-0053</issn>
+    <coverage>
+      <from>
+        <year>1983</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The Quarterly journal of economics</title>
+    <issn>0033-5533</issn>
+    <coverage>
+      <from>
+        <year>1886</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The World Bank economic review</title>
+    <issn>0258-6770</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The World Bank research observer</title>
+    <issn>0257-3032</issn>
+    <coverage>
+      <from>
+        <year>1986</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The journals of gerontology. Series A, Biological sciences and medical sciences</title>
+    <issn>1079-5006</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>50</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The journals of gerontology. Series B, Psychological sciences and social sciences</title>
+    <issn>1079-5014</issn>
+    <coverage>
+      <from>
+        <year>1995</year>
+        <volume>50</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>The quarterly bulletin of the association of industrial medical officers</title>
+    <coverage>
+      <from>
+        <year>1948</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Toxicological sciences</title>
+    <issn>1096-6080</issn>
+    <coverage>
+      <from>
+        <year>1998</year>
+        <volume>41</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Transactions of the Association of Industrial Medical Officers</title>
+    <issn>0371-5205</issn>
+    <coverage>
+      <from>
+        <year>1951</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1965</year>
+        <volume>15</volume>
+        <issue>4</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Transactions of the Bibliographical Society</title>
+    <issn>2041-4471</issn>
+    <coverage>
+      <from>
+        <year>1889</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Transactions of the Royal Society of Tropical Medicine and Hygiene</title>
+    <issn>0035-9203</issn>
+    <coverage>
+      <from>
+        <year>1920</year>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Transactions of the Society of Occupational Medicine</title>
+    <issn>0037-9972</issn>
+    <coverage>
+      <from>
+        <year>1966</year>
+        <volume>13</volume>
+      </from>
+      <to>
+        <year>1972</year>
+        <volume>22</volume>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Transactions of the Society of Tropical Medicine and Hygiene</title>
+    <coverage>
+      <from>
+        <year>1908</year>
+        <volume>2</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1919</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Trusts &amp; trustees</title>
+    <issn>1363-1780</issn>
+    <coverage>
+      <from>
+        <year>1996</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Year book - Leo Baeck Institute</title>
+    <issn>0075-8744</issn>
+    <coverage>
+      <from>
+        <year>1956</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Year's work in English studies</title>
+    <issn>0084-4144</issn>
+    <coverage>
+      <from>
+        <year>1921</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Year's work in critical and cultural theory</title>
+    <issn>1077-4254</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Yearbook of European law</title>
+    <issn>0263-3264</issn>
+    <coverage>
+      <from>
+        <year>1981</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Yearbook of international environmental law</title>
+    <issn>0965-1721</issn>
+    <coverage>
+      <from>
+        <year>1991</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2010</year>
+      </to>
+    </coverage>
+  </item>
+</institutional_holdings>

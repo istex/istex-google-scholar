@@ -1,3 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE institutional_holdings PUBLIC "-//GOOGLE//Institutional Holdings 1.0//EN" "http://scholar.google.com/scholar/institutional_holdings.dtd">
-<institutional_holdings/>
+<institutional_holdings>
+  <item type="electronic">
+    <title>Nature</title>
+    <issn>0028-0836</issn>
+    <coverage>
+      <from>
+        <year>1869</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2012</year>
+        <volume>492</volume>
+        <issue>7429</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Nature Cell Biology</title>
+    <issn>1465-7392</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2012</year>
+        <volume>14</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Nature Chemistry</title>
+    <issn>1755-4330</issn>
+    <coverage>
+      <from>
+        <year>2009</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2012</year>
+        <volume>4</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Nature Immunology</title>
+    <issn>1529-2908</issn>
+    <coverage>
+      <from>
+        <year>2000</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2012</year>
+        <volume>13</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Nature Reviews Drug Discovery</title>
+    <issn>1474-1776</issn>
+    <coverage>
+      <from>
+        <year>2001</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2012</year>
+        <volume>11</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Nature Reviews Immunology</title>
+    <issn>1474-1733</issn>
+    <coverage>
+      <from>
+        <year>2001</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2012</year>
+        <volume>12</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Nature Reviews Neuroscience</title>
+    <issn>1471-003X</issn>
+    <coverage>
+      <from>
+        <year>1999</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2012</year>
+        <volume>13</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Nature Structural and Molecular Biology</title>
+    <issn>1545-9993</issn>
+    <coverage>
+      <from>
+        <year>2003</year>
+        <volume>11</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2012</year>
+        <volume>19</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Nature structural biology</title>
+    <issn>1072-8368</issn>
+    <coverage>
+      <from>
+        <year>1993</year>
+        <volume>1</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>2003</year>
+        <volume>10</volume>
+        <issue>12</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Nature. New biology</title>
+    <issn>0090-0028</issn>
+    <coverage>
+      <from>
+        <year>1970</year>
+        <volume>229</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1973</year>
+        <volume>246</volume>
+        <issue>155</issue>
+      </to>
+    </coverage>
+  </item>
+  <item type="electronic">
+    <title>Nature. Physical science</title>
+    <issn>0300-8746</issn>
+    <coverage>
+      <from>
+        <year>1970</year>
+        <volume>229</volume>
+        <issue>1</issue>
+      </from>
+      <to>
+        <year>1973</year>
+        <volume>246</volume>
+        <issue>155</issue>
+      </to>
+    </coverage>
+  </item>
+</institutional_holdings>

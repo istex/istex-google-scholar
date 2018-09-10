@@ -4,17 +4,17 @@
 	
 	<xsl:template match="/">
 	<institutional_holdings>
-			<xsl:apply-templates select="bacon/query/kbart/element"/>
+			<xsl:apply-templates select="query/kbart"/>
 	</institutional_holdings>
 	</xsl:template>
 	
-	<xsl:template match="element">
+	<xsl:template match="kbart">
 		<item type="electronic">
 			<!-- note: given the DTD we can put only one issn --> 
 			<!-- although we always have one for print issn and one for electronic issn, -->
 			<!-- and possibly other from older versions of the title -->
 			<!-- by default we prioritize here print issn -->
-			<!-- question sent to Google Scholar support: shall we add several <item> element -->
+			<!-- question sent to Google Scholar support: shall we add several <item> kbart -->
 			<!-- for the same journal for each its different possible issn numbers? -->
 			<xsl:choose>
 	         	<xsl:when test="print_identifier">
